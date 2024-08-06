@@ -66,8 +66,8 @@ let cntr = ["153.03717967278217","-27.474814522312915"]
           'source-layer': 'Snake_distribution_centroids-62mr48', // Replace with your source layer name
           'paint': {
             'circle-radius': 2.8,
-            'circle-color': '#00ff00',
-            'circle-stroke-color':'#46c115',
+            'circle-color': '#0078FF',
+            'circle-stroke-color':'#00ABFF',
             'circle-stroke-width':0.4
           }
         });
