@@ -1,10 +1,11 @@
 //map box function
-let cntr = ["153.03717967278217","-27.474814522312915"]
+let cntr = ["151.93506408854307","-27.551792016286708"] 
+
 
 // function mapBox(center){
     let map = new mapboxgl.Map({
         container: 'map',
-        style: 'mapbox://styles/mapbox/streets-v11',
+        style: 'mapbox://styles/mapbox/light-v10',
         // center:center,
         center:cntr,
         zoom:8
@@ -36,7 +37,7 @@ let cntr = ["153.03717967278217","-27.474814522312915"]
     //Add Scalebar    
     map.addControl(new mapboxgl.ScaleControl({
         maxWidth: 280,
-        unit: 'nautical'
+        // unit: 'nautical'
     }));
 
     // map.boxZoom.disable();
@@ -65,10 +66,10 @@ let cntr = ["153.03717967278217","-27.474814522312915"]
           'source': 'my-dataset',
           'source-layer': 'Snake_distribution_centroids-62mr48', // Replace with your source layer name
           'paint': {
-            'circle-radius': 2.8,
+            'circle-radius': 4,
             'circle-color': '#0078FF',
             'circle-stroke-color':'#00ABFF',
-            'circle-stroke-width':0.4
+            'circle-stroke-width':2
           }
         });
     }
