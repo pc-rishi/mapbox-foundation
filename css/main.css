@@ -28,6 +28,52 @@ body{
     border: 1px solid #ddd; /* Light border for a subtle outline */
 }
 
+
+
+/* Add these styles to your CSS file or inside a <style> tag in your HTML */
+.premium-popup {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.premium-popup h3 {
+    margin-top: 0;
+    margin-bottom: 8px;
+    font-size: 1.2em;
+    color: #333;
+}
+
+.premium-popup h4 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 1em;
+    color: #808080;
+}
+
+.popup-details {
+    display: flex;
+    justify-content: space-between;
+}
+
+.popup-details div {
+    text-align: center;
+}
+
+.popup-details strong {
+    display: block;
+    font-size: 1.1em;
+    color: #007bff;
+    font-weight: bold;
+}
+
+.popup-details div + div {
+    margin-left: 20px;
+}
+
+
 .container h1{
     z-index: 1;
     position: absolute;

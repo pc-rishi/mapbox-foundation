@@ -1,5 +1,5 @@
 //map box function
-let cntr = ["151.93506408854307","-27.551792016286708"] 
+let cntr = ["152.42905811645483","-27.13675120820229"] 
 
 
 // function mapBox(center){
@@ -8,7 +8,7 @@ let cntr = ["151.93506408854307","-27.551792016286708"]
         style: 'mapbox://styles/mapbox/light-v10',
         // center:center,
         center:cntr,
-        zoom:8
+        zoom:9
     })
 
     //change map styles
@@ -54,62 +54,110 @@ let cntr = ["151.93506408854307","-27.551792016286708"]
     function addSource() {    
     map.addSource('my-dataset', {
           type: 'vector',
-          url: 'mapbox://rishi13.2us2np72' // Replace with your tileset ID
+          url: 'mapbox://rishi13.ao5gc0ra' // Replace with your tileset ID
         });
+    
+    map.addSource('suburb-bound', {
+        type: 'vector',
+        url: 'mapbox://rishi13.42wigdcb' // Replace with your tileset ID
+        });
+
+    map.addSource('lga-bound', {
+        type: 'vector',
+        url: 'mapbox://rishi13.3f21sqvz' // Replace with your tileset ID
+        });    
     }
     
         // Add a layer to use the source
         function addLayer() {
+
+        map.addLayer({
+            'id': 'lga-layer',
+            'type': 'fill',
+            'source': 'lga-bound',
+            'source-layer': 'Somerset_LGA-9vioh7', // Replace with your source layer name
+            'paint': {
+                
+                // 'fill-color': '#007bff',
+                'fill-opacity':0.08,
+                // 'fill-outline-color':'#333',
+                // 'line-width':0.28
+                } 
+            
+        });
+
+        map.addLayer({
+            'id': 'suburb-layer',
+            'type': 'line',
+            'source': 'suburb-bound',
+            'source-layer': 'Somerset_Suburbs-9ljsoa', // Replace with your source layer name
+            'paint': {
+                
+                // 'fill-color': '#007bff',
+                'line-opacity':0.2,
+                // 'fill-outline-color':'#333',
+                'line-width':0.28
+                } 
+            
+        });
+
         map.addLayer({
           'id': 'dataset-layer',
           'type': 'circle',
           'source': 'my-dataset',
-          'source-layer': 'Snake_distribution_centroids-62mr48', // Replace with your source layer name
+          'source-layer': 'Somerset_Audit_geocode-8tnjtg', // Replace with your source layer name
           'paint': {
-            'circle-radius': 4,
+            'circle-radius': 2.8,
             'circle-color': '#0078FF',
             'circle-stroke-color':'#00ABFF',
-            'circle-stroke-width':2
+            'circle-stroke-width':1
           }
         });
+
+        
+
     }
 
-     // Add click event listener for popups
     map.on('click', 'dataset-layer', function (e) {
         // Assuming your tileset data includes properties you want to show in the popup
         var coordinates = e.features[0].geometry.coordinates.slice();
         var properties = e.features[0].properties; // Access all properties
-
-       // After click position the point to the center
+    
+        // After click position the point to the center
         map.flyTo({
             center: e.features[0].geometry.coordinates
         });
-      
-
-        var keysToDisplay = ['TID','Binomial', 'Group']; // Replace with your property keys
-
+    
+        // Extract the specific keys
+        var name = properties['Name'];
+        var rating = properties['Rating'];
+        var reviewCount = properties['Review Count'];
+        var suburb = properties['Suburb'];
+        var rooms = properties['Rooms'];
+    
         // Create the content for the popup
-        var popupContent = '<h3>Feature Details</h3>';
-        keysToDisplay.forEach(function(key) {
-            if (properties[key]) {
-                popupContent += '<strong>' + key + ':</strong> ' + properties[key] + '<br>';
-            }
-        });
-
+        var popupContent = '<div class="premium-popup">';
+        popupContent += '<h3>' + name + '</h3>';
+        popupContent += '<h4>' + suburb + '</h4>';
+        popupContent += '<div class="popup-details">';
+        if (rating) popupContent += '<div><strong>Rating</strong> ' + rating + '</div>';
+        if (reviewCount) popupContent += '<div><strong>Reviews</strong> ' + reviewCount + '</div>';
+        if (rooms) popupContent += '<div><strong>Bedrooms</strong> ' + rooms + '</div>';
+        popupContent += '</div></div>';
+    
         // Ensure that if the map is zoomed out such that multiple
         // copies of the feature are visible, the popup appears
         // over the copy being pointed to.
         while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
             coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
         }
-
+    
         new mapboxgl.Popup()
             .setLngLat(coordinates)
             .setHTML(popupContent) // Set the popup content
             .addTo(map);
-
-            
     });
+    
 
 
 
