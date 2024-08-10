@@ -1,0 +1,2876 @@
+Suburb_Name,month,value
+Laceys Creek,Jul-21,47
+Laceys Creek,Aug-21,90
+Laceys Creek,Sep-21,54
+Laceys Creek,Oct-21,40
+Laceys Creek,Nov-21,44
+Laceys Creek,Dec-21,3
+Laceys Creek,Jan-22,99
+Laceys Creek,Feb-22,9
+Laceys Creek,Mar-22,87
+Laceys Creek,Apr-22,44
+Laceys Creek,May-22,65
+Laceys Creek,Jun-22,71
+Laceys Creek,Jul-22,90
+Laceys Creek,Aug-22,15
+Laceys Creek,Sep-22,25
+Laceys Creek,Oct-22,26
+Laceys Creek,Nov-22,12
+Laceys Creek,Dec-22,43
+Laceys Creek,Jan-23,70
+Laceys Creek,Feb-23,41
+Laceys Creek,Mar-23,59
+Laceys Creek,Apr-23,55
+Laceys Creek,May-23,65
+Laceys Creek,Jun-23,45
+Laceys Creek,Jul-23,11
+Brightview,Jul-21,25
+Brightview,Aug-21,67
+Brightview,Sep-21,73
+Brightview,Oct-21,8
+Brightview,Nov-21,96
+Brightview,Dec-21,95
+Brightview,Jan-22,76
+Brightview,Feb-22,67
+Brightview,Mar-22,26
+Brightview,Apr-22,24
+Brightview,May-22,12
+Brightview,Jun-22,71
+Brightview,Jul-22,13
+Brightview,Aug-22,27
+Brightview,Sep-22,90
+Brightview,Oct-22,10
+Brightview,Nov-22,41
+Brightview,Dec-22,70
+Brightview,Jan-23,16
+Brightview,Feb-23,80
+Brightview,Mar-23,45
+Brightview,Apr-23,88
+Brightview,May-23,36
+Brightview,Jun-23,4
+Brightview,Jul-23,96
+Lynford,Jul-21,30
+Lynford,Aug-21,17
+Lynford,Sep-21,91
+Lynford,Oct-21,20
+Lynford,Nov-21,80
+Lynford,Dec-21,44
+Lynford,Jan-22,56
+Lynford,Feb-22,5
+Lynford,Mar-22,71
+Lynford,Apr-22,5
+Lynford,May-22,32
+Lynford,Jun-22,50
+Lynford,Jul-22,45
+Lynford,Aug-22,72
+Lynford,Sep-22,25
+Lynford,Oct-22,63
+Lynford,Nov-22,60
+Lynford,Dec-22,99
+Lynford,Jan-23,13
+Lynford,Feb-23,99
+Lynford,Mar-23,23
+Lynford,Apr-23,90
+Lynford,May-23,92
+Lynford,Jun-23,98
+Lynford,Jul-23,15
+Monsildale,Jul-21,75
+Monsildale,Aug-21,77
+Monsildale,Sep-21,13
+Monsildale,Oct-21,51
+Monsildale,Nov-21,38
+Monsildale,Dec-21,74
+Monsildale,Jan-22,57
+Monsildale,Feb-22,80
+Monsildale,Mar-22,60
+Monsildale,Apr-22,51
+Monsildale,May-22,43
+Monsildale,Jun-22,73
+Monsildale,Jul-22,7
+Monsildale,Aug-22,82
+Monsildale,Sep-22,22
+Monsildale,Oct-22,74
+Monsildale,Nov-22,100
+Monsildale,Dec-22,69
+Monsildale,Jan-23,67
+Monsildale,Feb-23,50
+Monsildale,Mar-23,45
+Monsildale,Apr-23,95
+Monsildale,May-23,77
+Monsildale,Jun-23,77
+Monsildale,Jul-23,47
+Conondale,Jul-21,48
+Conondale,Aug-21,87
+Conondale,Sep-21,91
+Conondale,Oct-21,98
+Conondale,Nov-21,97
+Conondale,Dec-21,26
+Conondale,Jan-22,18
+Conondale,Feb-22,60
+Conondale,Mar-22,94
+Conondale,Apr-22,40
+Conondale,May-22,51
+Conondale,Jun-22,63
+Conondale,Jul-22,16
+Conondale,Aug-22,13
+Conondale,Sep-22,50
+Conondale,Oct-22,75
+Conondale,Nov-22,33
+Conondale,Dec-22,46
+Conondale,Jan-23,70
+Conondale,Feb-23,91
+Conondale,Mar-23,10
+Conondale,Apr-23,91
+Conondale,May-23,71
+Conondale,Jun-23,56
+Conondale,Jul-23,36
+Ottaba,Jul-21,34
+Ottaba,Aug-21,64
+Ottaba,Sep-21,78
+Ottaba,Oct-21,92
+Ottaba,Nov-21,59
+Ottaba,Dec-21,62
+Ottaba,Jan-22,98
+Ottaba,Feb-22,12
+Ottaba,Mar-22,42
+Ottaba,Apr-22,94
+Ottaba,May-22,40
+Ottaba,Jun-22,39
+Ottaba,Jul-22,31
+Ottaba,Aug-22,17
+Ottaba,Sep-22,60
+Ottaba,Oct-22,3
+Ottaba,Nov-22,53
+Ottaba,Dec-22,45
+Ottaba,Jan-23,48
+Ottaba,Feb-23,66
+Ottaba,Mar-23,38
+Ottaba,Apr-23,4
+Ottaba,May-23,67
+Ottaba,Jun-23,3
+Ottaba,Jul-23,47
+Glen Esk,Jul-21,99
+Glen Esk,Aug-21,11
+Glen Esk,Sep-21,71
+Glen Esk,Oct-21,90
+Glen Esk,Nov-21,73
+Glen Esk,Dec-21,80
+Glen Esk,Jan-22,24
+Glen Esk,Feb-22,100
+Glen Esk,Mar-22,100
+Glen Esk,Apr-22,99
+Glen Esk,May-22,40
+Glen Esk,Jun-22,81
+Glen Esk,Jul-22,92
+Glen Esk,Aug-22,64
+Glen Esk,Sep-22,87
+Glen Esk,Oct-22,1
+Glen Esk,Nov-22,6
+Glen Esk,Dec-22,94
+Glen Esk,Jan-23,30
+Glen Esk,Feb-23,72
+Glen Esk,Mar-23,7
+Glen Esk,Apr-23,98
+Glen Esk,May-23,98
+Glen Esk,Jun-23,5
+Glen Esk,Jul-23,15
+Villeneuve,Jul-21,43
+Villeneuve,Aug-21,43
+Villeneuve,Sep-21,7
+Villeneuve,Oct-21,80
+Villeneuve,Nov-21,66
+Villeneuve,Dec-21,56
+Villeneuve,Jan-22,44
+Villeneuve,Feb-22,43
+Villeneuve,Mar-22,97
+Villeneuve,Apr-22,61
+Villeneuve,May-22,16
+Villeneuve,Jun-22,48
+Villeneuve,Jul-22,39
+Villeneuve,Aug-22,68
+Villeneuve,Sep-22,30
+Villeneuve,Oct-22,2
+Villeneuve,Nov-22,91
+Villeneuve,Dec-22,41
+Villeneuve,Jan-23,13
+Villeneuve,Feb-23,77
+Villeneuve,Mar-23,31
+Villeneuve,Apr-23,17
+Villeneuve,May-23,18
+Villeneuve,Jun-23,89
+Villeneuve,Jul-23,96
+Benarkin North,Jul-21,25
+Benarkin North,Aug-21,70
+Benarkin North,Sep-21,77
+Benarkin North,Oct-21,100
+Benarkin North,Nov-21,32
+Benarkin North,Dec-21,48
+Benarkin North,Jan-22,88
+Benarkin North,Feb-22,85
+Benarkin North,Mar-22,12
+Benarkin North,Apr-22,78
+Benarkin North,May-22,58
+Benarkin North,Jun-22,81
+Benarkin North,Jul-22,96
+Benarkin North,Aug-22,19
+Benarkin North,Sep-22,14
+Benarkin North,Oct-22,6
+Benarkin North,Nov-22,18
+Benarkin North,Dec-22,10
+Benarkin North,Jan-23,100
+Benarkin North,Feb-23,19
+Benarkin North,Mar-23,94
+Benarkin North,Apr-23,24
+Benarkin North,May-23,51
+Benarkin North,Jun-23,13
+Benarkin North,Jul-23,49
+Mount Mee,Jul-21,22
+Mount Mee,Aug-21,25
+Mount Mee,Sep-21,38
+Mount Mee,Oct-21,72
+Mount Mee,Nov-21,95
+Mount Mee,Dec-21,44
+Mount Mee,Jan-22,33
+Mount Mee,Feb-22,36
+Mount Mee,Mar-22,39
+Mount Mee,Apr-22,89
+Mount Mee,May-22,39
+Mount Mee,Jun-22,74
+Mount Mee,Jul-22,37
+Mount Mee,Aug-22,81
+Mount Mee,Sep-22,4
+Mount Mee,Oct-22,61
+Mount Mee,Nov-22,44
+Mount Mee,Dec-22,57
+Mount Mee,Jan-23,26
+Mount Mee,Feb-23,7
+Mount Mee,Mar-23,52
+Mount Mee,Apr-23,77
+Mount Mee,May-23,3
+Mount Mee,Jun-23,5
+Mount Mee,Jul-23,31
+England Creek,Jul-21,66
+England Creek,Aug-21,68
+England Creek,Sep-21,33
+England Creek,Oct-21,77
+England Creek,Nov-21,19
+England Creek,Dec-21,65
+England Creek,Jan-22,0
+England Creek,Feb-22,67
+England Creek,Mar-22,100
+England Creek,Apr-22,72
+England Creek,May-22,67
+England Creek,Jun-22,20
+England Creek,Jul-22,3
+England Creek,Aug-22,7
+England Creek,Sep-22,70
+England Creek,Oct-22,61
+England Creek,Nov-22,32
+England Creek,Dec-22,95
+England Creek,Jan-23,68
+England Creek,Feb-23,96
+England Creek,Mar-23,30
+England Creek,Apr-23,43
+England Creek,May-23,85
+England Creek,Jun-23,87
+England Creek,Jul-23,81
+Glenfern,Jul-21,71
+Glenfern,Aug-21,5
+Glenfern,Sep-21,80
+Glenfern,Oct-21,83
+Glenfern,Nov-21,85
+Glenfern,Dec-21,95
+Glenfern,Jan-22,78
+Glenfern,Feb-22,48
+Glenfern,Mar-22,47
+Glenfern,Apr-22,66
+Glenfern,May-22,7
+Glenfern,Jun-22,27
+Glenfern,Jul-22,60
+Glenfern,Aug-22,78
+Glenfern,Sep-22,32
+Glenfern,Oct-22,71
+Glenfern,Nov-22,100
+Glenfern,Dec-22,82
+Glenfern,Jan-23,47
+Glenfern,Feb-23,56
+Glenfern,Mar-23,36
+Glenfern,Apr-23,12
+Glenfern,May-23,54
+Glenfern,Jun-23,38
+Glenfern,Jul-23,22
+Jimna,Jul-21,54
+Jimna,Aug-21,100
+Jimna,Sep-21,89
+Jimna,Oct-21,47
+Jimna,Nov-21,92
+Jimna,Dec-21,86
+Jimna,Jan-22,8
+Jimna,Feb-22,66
+Jimna,Mar-22,65
+Jimna,Apr-22,100
+Jimna,May-22,1
+Jimna,Jun-22,39
+Jimna,Jul-22,35
+Jimna,Aug-22,72
+Jimna,Sep-22,42
+Jimna,Oct-22,19
+Jimna,Nov-22,53
+Jimna,Dec-22,6
+Jimna,Jan-23,81
+Jimna,Feb-23,3
+Jimna,Mar-23,30
+Jimna,Apr-23,35
+Jimna,May-23,1
+Jimna,Jun-23,74
+Jimna,Jul-23,74
+Lake Borumba,Jul-21,91
+Lake Borumba,Aug-21,100
+Lake Borumba,Sep-21,54
+Lake Borumba,Oct-21,1
+Lake Borumba,Nov-21,33
+Lake Borumba,Dec-21,95
+Lake Borumba,Jan-22,34
+Lake Borumba,Feb-22,6
+Lake Borumba,Mar-22,53
+Lake Borumba,Apr-22,21
+Lake Borumba,May-22,58
+Lake Borumba,Jun-22,70
+Lake Borumba,Jul-22,17
+Lake Borumba,Aug-22,20
+Lake Borumba,Sep-22,49
+Lake Borumba,Oct-22,96
+Lake Borumba,Nov-22,28
+Lake Borumba,Dec-22,47
+Lake Borumba,Jan-23,88
+Lake Borumba,Feb-23,22
+Lake Borumba,Mar-23,31
+Lake Borumba,Apr-23,100
+Lake Borumba,May-23,8
+Lake Borumba,Jun-23,11
+Lake Borumba,Jul-23,41
+Caboonbah,Jul-21,58
+Caboonbah,Aug-21,65
+Caboonbah,Sep-21,1
+Caboonbah,Oct-21,6
+Caboonbah,Nov-21,93
+Caboonbah,Dec-21,21
+Caboonbah,Jan-22,26
+Caboonbah,Feb-22,88
+Caboonbah,Mar-22,67
+Caboonbah,Apr-22,94
+Caboonbah,May-22,1
+Caboonbah,Jun-22,90
+Caboonbah,Jul-22,100
+Caboonbah,Aug-22,35
+Caboonbah,Sep-22,12
+Caboonbah,Oct-22,61
+Caboonbah,Nov-22,15
+Caboonbah,Dec-22,66
+Caboonbah,Jan-23,100
+Caboonbah,Feb-23,15
+Caboonbah,Mar-23,54
+Caboonbah,Apr-23,84
+Caboonbah,May-23,8
+Caboonbah,Jun-23,24
+Caboonbah,Jul-23,88
+Sheep Station Creek,Jul-21,81
+Sheep Station Creek,Aug-21,92
+Sheep Station Creek,Sep-21,41
+Sheep Station Creek,Oct-21,73
+Sheep Station Creek,Nov-21,42
+Sheep Station Creek,Dec-21,80
+Sheep Station Creek,Jan-22,1
+Sheep Station Creek,Feb-22,1
+Sheep Station Creek,Mar-22,8
+Sheep Station Creek,Apr-22,60
+Sheep Station Creek,May-22,72
+Sheep Station Creek,Jun-22,88
+Sheep Station Creek,Jul-22,23
+Sheep Station Creek,Aug-22,87
+Sheep Station Creek,Sep-22,18
+Sheep Station Creek,Oct-22,25
+Sheep Station Creek,Nov-22,57
+Sheep Station Creek,Dec-22,72
+Sheep Station Creek,Jan-23,44
+Sheep Station Creek,Feb-23,33
+Sheep Station Creek,Mar-23,44
+Sheep Station Creek,Apr-23,77
+Sheep Station Creek,May-23,94
+Sheep Station Creek,Jun-23,45
+Sheep Station Creek,Jul-23,39
+Coominya,Jul-21,49
+Coominya,Aug-21,82
+Coominya,Sep-21,70
+Coominya,Oct-21,46
+Coominya,Nov-21,29
+Coominya,Dec-21,69
+Coominya,Jan-22,45
+Coominya,Feb-22,24
+Coominya,Mar-22,22
+Coominya,Apr-22,44
+Coominya,May-22,38
+Coominya,Jun-22,20
+Coominya,Jul-22,39
+Coominya,Aug-22,87
+Coominya,Sep-22,49
+Coominya,Oct-22,86
+Coominya,Nov-22,54
+Coominya,Dec-22,9
+Coominya,Jan-23,60
+Coominya,Feb-23,54
+Coominya,Mar-23,20
+Coominya,Apr-23,17
+Coominya,May-23,95
+Coominya,Jun-23,90
+Coominya,Jul-23,35
+Gregors Creek,Jul-21,15
+Gregors Creek,Aug-21,2
+Gregors Creek,Sep-21,58
+Gregors Creek,Oct-21,20
+Gregors Creek,Nov-21,97
+Gregors Creek,Dec-21,3
+Gregors Creek,Jan-22,25
+Gregors Creek,Feb-22,81
+Gregors Creek,Mar-22,86
+Gregors Creek,Apr-22,8
+Gregors Creek,May-22,48
+Gregors Creek,Jun-22,1
+Gregors Creek,Jul-22,45
+Gregors Creek,Aug-22,66
+Gregors Creek,Sep-22,71
+Gregors Creek,Oct-22,62
+Gregors Creek,Nov-22,87
+Gregors Creek,Dec-22,17
+Gregors Creek,Jan-23,81
+Gregors Creek,Feb-23,23
+Gregors Creek,Mar-23,13
+Gregors Creek,Apr-23,17
+Gregors Creek,May-23,99
+Gregors Creek,Jun-23,83
+Gregors Creek,Jul-23,92
+Manumbar,Jul-21,61
+Manumbar,Aug-21,72
+Manumbar,Sep-21,49
+Manumbar,Oct-21,1
+Manumbar,Nov-21,31
+Manumbar,Dec-21,45
+Manumbar,Jan-22,19
+Manumbar,Feb-22,75
+Manumbar,Mar-22,58
+Manumbar,Apr-22,23
+Manumbar,May-22,46
+Manumbar,Jun-22,28
+Manumbar,Jul-22,1
+Manumbar,Aug-22,9
+Manumbar,Sep-22,38
+Manumbar,Oct-22,5
+Manumbar,Nov-22,56
+Manumbar,Dec-22,40
+Manumbar,Jan-23,26
+Manumbar,Feb-23,97
+Manumbar,Mar-23,53
+Manumbar,Apr-23,64
+Manumbar,May-23,13
+Manumbar,Jun-23,41
+Manumbar,Jul-23,31
+Colinton,Jul-21,30
+Colinton,Aug-21,53
+Colinton,Sep-21,94
+Colinton,Oct-21,67
+Colinton,Nov-21,28
+Colinton,Dec-21,8
+Colinton,Jan-22,60
+Colinton,Feb-22,7
+Colinton,Mar-22,65
+Colinton,Apr-22,53
+Colinton,May-22,51
+Colinton,Jun-22,16
+Colinton,Jul-22,70
+Colinton,Aug-22,75
+Colinton,Sep-22,11
+Colinton,Oct-22,29
+Colinton,Nov-22,73
+Colinton,Dec-22,79
+Colinton,Jan-23,49
+Colinton,Feb-23,52
+Colinton,Mar-23,28
+Colinton,Apr-23,47
+Colinton,May-23,13
+Colinton,Jun-23,57
+Colinton,Jul-23,68
+Buaraba,Jul-21,47
+Buaraba,Aug-21,17
+Buaraba,Sep-21,99
+Buaraba,Oct-21,59
+Buaraba,Nov-21,45
+Buaraba,Dec-21,43
+Buaraba,Jan-22,67
+Buaraba,Feb-22,87
+Buaraba,Mar-22,68
+Buaraba,Apr-22,76
+Buaraba,May-22,24
+Buaraba,Jun-22,35
+Buaraba,Jul-22,89
+Buaraba,Aug-22,81
+Buaraba,Sep-22,28
+Buaraba,Oct-22,62
+Buaraba,Nov-22,25
+Buaraba,Dec-22,47
+Buaraba,Jan-23,38
+Buaraba,Feb-23,39
+Buaraba,Mar-23,14
+Buaraba,Apr-23,62
+Buaraba,May-23,83
+Buaraba,Jun-23,89
+Buaraba,Jul-23,92
+Toogoolawah,Jul-21,20
+Toogoolawah,Aug-21,56
+Toogoolawah,Sep-21,81
+Toogoolawah,Oct-21,3
+Toogoolawah,Nov-21,89
+Toogoolawah,Dec-21,64
+Toogoolawah,Jan-22,90
+Toogoolawah,Feb-22,88
+Toogoolawah,Mar-22,44
+Toogoolawah,Apr-22,64
+Toogoolawah,May-22,96
+Toogoolawah,Jun-22,59
+Toogoolawah,Jul-22,57
+Toogoolawah,Aug-22,90
+Toogoolawah,Sep-22,74
+Toogoolawah,Oct-22,62
+Toogoolawah,Nov-22,26
+Toogoolawah,Dec-22,17
+Toogoolawah,Jan-23,20
+Toogoolawah,Feb-23,82
+Toogoolawah,Mar-23,39
+Toogoolawah,Apr-23,35
+Toogoolawah,May-23,29
+Toogoolawah,Jun-23,13
+Toogoolawah,Jul-23,11
+Patrick Estate,Jul-21,90
+Patrick Estate,Aug-21,66
+Patrick Estate,Sep-21,86
+Patrick Estate,Oct-21,51
+Patrick Estate,Nov-21,86
+Patrick Estate,Dec-21,78
+Patrick Estate,Jan-22,57
+Patrick Estate,Feb-22,76
+Patrick Estate,Mar-22,14
+Patrick Estate,Apr-22,19
+Patrick Estate,May-22,6
+Patrick Estate,Jun-22,68
+Patrick Estate,Jul-22,12
+Patrick Estate,Aug-22,72
+Patrick Estate,Sep-22,79
+Patrick Estate,Oct-22,94
+Patrick Estate,Nov-22,34
+Patrick Estate,Dec-22,10
+Patrick Estate,Jan-23,37
+Patrick Estate,Feb-23,70
+Patrick Estate,Mar-23,13
+Patrick Estate,Apr-23,27
+Patrick Estate,May-23,13
+Patrick Estate,Jun-23,72
+Patrick Estate,Jul-23,92
+Spring Creek,Jul-21,22
+Spring Creek,Aug-21,91
+Spring Creek,Sep-21,46
+Spring Creek,Oct-21,99
+Spring Creek,Nov-21,8
+Spring Creek,Dec-21,62
+Spring Creek,Jan-22,67
+Spring Creek,Feb-22,54
+Spring Creek,Mar-22,51
+Spring Creek,Apr-22,15
+Spring Creek,May-22,69
+Spring Creek,Jun-22,23
+Spring Creek,Jul-22,99
+Spring Creek,Aug-22,58
+Spring Creek,Sep-22,30
+Spring Creek,Oct-22,29
+Spring Creek,Nov-22,45
+Spring Creek,Dec-22,15
+Spring Creek,Jan-23,78
+Spring Creek,Feb-23,72
+Spring Creek,Mar-23,10
+Spring Creek,Apr-23,14
+Spring Creek,May-23,30
+Spring Creek,Jun-23,22
+Spring Creek,Jul-23,96
+Esk,Jul-21,32
+Esk,Aug-21,92
+Esk,Sep-21,96
+Esk,Oct-21,83
+Esk,Nov-21,36
+Esk,Dec-21,93
+Esk,Jan-22,16
+Esk,Feb-22,58
+Esk,Mar-22,97
+Esk,Apr-22,23
+Esk,May-22,2
+Esk,Jun-22,12
+Esk,Jul-22,72
+Esk,Aug-22,99
+Esk,Sep-22,15
+Esk,Oct-22,13
+Esk,Nov-22,14
+Esk,Dec-22,24
+Esk,Jan-23,92
+Esk,Feb-23,1
+Esk,Mar-23,46
+Esk,Apr-23,100
+Esk,May-23,80
+Esk,Jun-23,84
+Esk,Jul-23,37
+Sandy Creek,Jul-21,24
+Sandy Creek,Aug-21,39
+Sandy Creek,Sep-21,39
+Sandy Creek,Oct-21,85
+Sandy Creek,Nov-21,30
+Sandy Creek,Dec-21,36
+Sandy Creek,Jan-22,55
+Sandy Creek,Feb-22,67
+Sandy Creek,Mar-22,80
+Sandy Creek,Apr-22,62
+Sandy Creek,May-22,42
+Sandy Creek,Jun-22,75
+Sandy Creek,Jul-22,82
+Sandy Creek,Aug-22,30
+Sandy Creek,Sep-22,58
+Sandy Creek,Oct-22,15
+Sandy Creek,Nov-22,26
+Sandy Creek,Dec-22,87
+Sandy Creek,Jan-23,59
+Sandy Creek,Feb-23,11
+Sandy Creek,Mar-23,75
+Sandy Creek,Apr-23,98
+Sandy Creek,May-23,86
+Sandy Creek,Jun-23,48
+Sandy Creek,Jul-23,20
+Wivenhoe Hill,Jul-21,71
+Wivenhoe Hill,Aug-21,46
+Wivenhoe Hill,Sep-21,24
+Wivenhoe Hill,Oct-21,19
+Wivenhoe Hill,Nov-21,74
+Wivenhoe Hill,Dec-21,100
+Wivenhoe Hill,Jan-22,91
+Wivenhoe Hill,Feb-22,11
+Wivenhoe Hill,Mar-22,90
+Wivenhoe Hill,Apr-22,55
+Wivenhoe Hill,May-22,34
+Wivenhoe Hill,Jun-22,35
+Wivenhoe Hill,Jul-22,21
+Wivenhoe Hill,Aug-22,4
+Wivenhoe Hill,Sep-22,62
+Wivenhoe Hill,Oct-22,66
+Wivenhoe Hill,Nov-22,85
+Wivenhoe Hill,Dec-22,25
+Wivenhoe Hill,Jan-23,37
+Wivenhoe Hill,Feb-23,81
+Wivenhoe Hill,Mar-23,46
+Wivenhoe Hill,Apr-23,66
+Wivenhoe Hill,May-23,15
+Wivenhoe Hill,Jun-23,68
+Wivenhoe Hill,Jul-23,100
+Ravensbourne,Jul-21,63
+Ravensbourne,Aug-21,15
+Ravensbourne,Sep-21,28
+Ravensbourne,Oct-21,39
+Ravensbourne,Nov-21,11
+Ravensbourne,Dec-21,72
+Ravensbourne,Jan-22,100
+Ravensbourne,Feb-22,43
+Ravensbourne,Mar-22,53
+Ravensbourne,Apr-22,93
+Ravensbourne,May-22,52
+Ravensbourne,Jun-22,93
+Ravensbourne,Jul-22,94
+Ravensbourne,Aug-22,44
+Ravensbourne,Sep-22,73
+Ravensbourne,Oct-22,2
+Ravensbourne,Nov-22,95
+Ravensbourne,Dec-22,76
+Ravensbourne,Jan-23,76
+Ravensbourne,Feb-23,12
+Ravensbourne,Mar-23,40
+Ravensbourne,Apr-23,42
+Ravensbourne,May-23,22
+Ravensbourne,Jun-23,19
+Ravensbourne,Jul-23,94
+Wanora,Jul-21,33
+Wanora,Aug-21,22
+Wanora,Sep-21,26
+Wanora,Oct-21,15
+Wanora,Nov-21,57
+Wanora,Dec-21,32
+Wanora,Jan-22,78
+Wanora,Feb-22,26
+Wanora,Mar-22,28
+Wanora,Apr-22,64
+Wanora,May-22,48
+Wanora,Jun-22,76
+Wanora,Jul-22,90
+Wanora,Aug-22,90
+Wanora,Sep-22,13
+Wanora,Oct-22,11
+Wanora,Nov-22,74
+Wanora,Dec-22,19
+Wanora,Jan-23,39
+Wanora,Feb-23,80
+Wanora,Mar-23,76
+Wanora,Apr-23,39
+Wanora,May-23,89
+Wanora,Jun-23,39
+Wanora,Jul-23,77
+Cherry Creek,Jul-21,69
+Cherry Creek,Aug-21,43
+Cherry Creek,Sep-21,1
+Cherry Creek,Oct-21,62
+Cherry Creek,Nov-21,4
+Cherry Creek,Dec-21,12
+Cherry Creek,Jan-22,45
+Cherry Creek,Feb-22,37
+Cherry Creek,Mar-22,85
+Cherry Creek,Apr-22,15
+Cherry Creek,May-22,12
+Cherry Creek,Jun-22,60
+Cherry Creek,Jul-22,59
+Cherry Creek,Aug-22,5
+Cherry Creek,Sep-22,91
+Cherry Creek,Oct-22,69
+Cherry Creek,Nov-22,69
+Cherry Creek,Dec-22,10
+Cherry Creek,Jan-23,73
+Cherry Creek,Feb-23,62
+Cherry Creek,Mar-23,35
+Cherry Creek,Apr-23,18
+Cherry Creek,May-23,22
+Cherry Creek,Jun-23,31
+Cherry Creek,Jul-23,11
+Banks Creek,Jul-21,96
+Banks Creek,Aug-21,90
+Banks Creek,Sep-21,65
+Banks Creek,Oct-21,20
+Banks Creek,Nov-21,78
+Banks Creek,Dec-21,11
+Banks Creek,Jan-22,58
+Banks Creek,Feb-22,64
+Banks Creek,Mar-22,29
+Banks Creek,Apr-22,17
+Banks Creek,May-22,84
+Banks Creek,Jun-22,23
+Banks Creek,Jul-22,17
+Banks Creek,Aug-22,47
+Banks Creek,Sep-22,33
+Banks Creek,Oct-22,27
+Banks Creek,Nov-22,32
+Banks Creek,Dec-22,13
+Banks Creek,Jan-23,39
+Banks Creek,Feb-23,26
+Banks Creek,Mar-23,39
+Banks Creek,Apr-23,17
+Banks Creek,May-23,77
+Banks Creek,Jun-23,7
+Banks Creek,Jul-23,5
+Hazeldean,Jul-21,5
+Hazeldean,Aug-21,39
+Hazeldean,Sep-21,94
+Hazeldean,Oct-21,86
+Hazeldean,Nov-21,80
+Hazeldean,Dec-21,33
+Hazeldean,Jan-22,31
+Hazeldean,Feb-22,5
+Hazeldean,Mar-22,8
+Hazeldean,Apr-22,70
+Hazeldean,May-22,43
+Hazeldean,Jun-22,0
+Hazeldean,Jul-22,31
+Hazeldean,Aug-22,70
+Hazeldean,Sep-22,62
+Hazeldean,Oct-22,60
+Hazeldean,Nov-22,35
+Hazeldean,Dec-22,6
+Hazeldean,Jan-23,89
+Hazeldean,Feb-23,51
+Hazeldean,Mar-23,25
+Hazeldean,Apr-23,3
+Hazeldean,May-23,31
+Hazeldean,Jun-23,27
+Hazeldean,Jul-23,39
+Hatton Vale,Jul-21,98
+Hatton Vale,Aug-21,18
+Hatton Vale,Sep-21,50
+Hatton Vale,Oct-21,22
+Hatton Vale,Nov-21,74
+Hatton Vale,Dec-21,95
+Hatton Vale,Jan-22,99
+Hatton Vale,Feb-22,89
+Hatton Vale,Mar-22,42
+Hatton Vale,Apr-22,70
+Hatton Vale,May-22,49
+Hatton Vale,Jun-22,2
+Hatton Vale,Jul-22,81
+Hatton Vale,Aug-22,45
+Hatton Vale,Sep-22,68
+Hatton Vale,Oct-22,77
+Hatton Vale,Nov-22,44
+Hatton Vale,Dec-22,85
+Hatton Vale,Jan-23,24
+Hatton Vale,Feb-23,66
+Hatton Vale,Mar-23,61
+Hatton Vale,Apr-23,65
+Hatton Vale,May-23,27
+Hatton Vale,Jun-23,86
+Hatton Vale,Jul-23,56
+Moombra,Jul-21,26
+Moombra,Aug-21,10
+Moombra,Sep-21,4
+Moombra,Oct-21,82
+Moombra,Nov-21,80
+Moombra,Dec-21,45
+Moombra,Jan-22,69
+Moombra,Feb-22,97
+Moombra,Mar-22,79
+Moombra,Apr-22,39
+Moombra,May-22,99
+Moombra,Jun-22,0
+Moombra,Jul-22,78
+Moombra,Aug-22,80
+Moombra,Sep-22,73
+Moombra,Oct-22,17
+Moombra,Nov-22,98
+Moombra,Dec-22,65
+Moombra,Jan-23,34
+Moombra,Feb-23,67
+Moombra,Mar-23,84
+Moombra,Apr-23,65
+Moombra,May-23,48
+Moombra,Jun-23,19
+Moombra,Jul-23,24
+Anduramba,Jul-21,15
+Anduramba,Aug-21,40
+Anduramba,Sep-21,57
+Anduramba,Oct-21,34
+Anduramba,Nov-21,69
+Anduramba,Dec-21,67
+Anduramba,Jan-22,4
+Anduramba,Feb-22,53
+Anduramba,Mar-22,94
+Anduramba,Apr-22,53
+Anduramba,May-22,71
+Anduramba,Jun-22,13
+Anduramba,Jul-22,74
+Anduramba,Aug-22,5
+Anduramba,Sep-22,27
+Anduramba,Oct-22,55
+Anduramba,Nov-22,5
+Anduramba,Dec-22,22
+Anduramba,Jan-23,33
+Anduramba,Feb-23,75
+Anduramba,Mar-23,6
+Anduramba,Apr-23,33
+Anduramba,May-23,76
+Anduramba,Jun-23,11
+Anduramba,Jul-23,85
+Mount Byron,Jul-21,80
+Mount Byron,Aug-21,78
+Mount Byron,Sep-21,14
+Mount Byron,Oct-21,53
+Mount Byron,Nov-21,13
+Mount Byron,Dec-21,94
+Mount Byron,Jan-22,97
+Mount Byron,Feb-22,6
+Mount Byron,Mar-22,86
+Mount Byron,Apr-22,26
+Mount Byron,May-22,0
+Mount Byron,Jun-22,58
+Mount Byron,Jul-22,93
+Mount Byron,Aug-22,60
+Mount Byron,Sep-22,38
+Mount Byron,Oct-22,100
+Mount Byron,Nov-22,42
+Mount Byron,Dec-22,43
+Mount Byron,Jan-23,9
+Mount Byron,Feb-23,15
+Mount Byron,Mar-23,36
+Mount Byron,Apr-23,88
+Mount Byron,May-23,18
+Mount Byron,Jun-23,3
+Mount Byron,Jul-23,87
+Moore,Jul-21,14
+Moore,Aug-21,94
+Moore,Sep-21,91
+Moore,Oct-21,38
+Moore,Nov-21,95
+Moore,Dec-21,44
+Moore,Jan-22,34
+Moore,Feb-22,55
+Moore,Mar-22,87
+Moore,Apr-22,97
+Moore,May-22,69
+Moore,Jun-22,93
+Moore,Jul-22,52
+Moore,Aug-22,13
+Moore,Sep-22,85
+Moore,Oct-22,16
+Moore,Nov-22,55
+Moore,Dec-22,32
+Moore,Jan-23,46
+Moore,Feb-23,76
+Moore,Mar-23,64
+Moore,Apr-23,41
+Moore,May-23,25
+Moore,Jun-23,10
+Moore,Jul-23,86
+Lockrose,Jul-21,37
+Lockrose,Aug-21,21
+Lockrose,Sep-21,18
+Lockrose,Oct-21,46
+Lockrose,Nov-21,85
+Lockrose,Dec-21,96
+Lockrose,Jan-22,72
+Lockrose,Feb-22,77
+Lockrose,Mar-22,43
+Lockrose,Apr-22,94
+Lockrose,May-22,13
+Lockrose,Jun-22,9
+Lockrose,Jul-22,15
+Lockrose,Aug-22,28
+Lockrose,Sep-22,49
+Lockrose,Oct-22,4
+Lockrose,Nov-22,10
+Lockrose,Dec-22,77
+Lockrose,Jan-23,66
+Lockrose,Feb-23,55
+Lockrose,Mar-23,35
+Lockrose,Apr-23,20
+Lockrose,May-23,43
+Lockrose,Jun-23,90
+Lockrose,Jul-23,45
+Stony Creek,Jul-21,4
+Stony Creek,Aug-21,28
+Stony Creek,Sep-21,4
+Stony Creek,Oct-21,38
+Stony Creek,Nov-21,27
+Stony Creek,Dec-21,5
+Stony Creek,Jan-22,75
+Stony Creek,Feb-22,91
+Stony Creek,Mar-22,28
+Stony Creek,Apr-22,60
+Stony Creek,May-22,61
+Stony Creek,Jun-22,66
+Stony Creek,Jul-22,25
+Stony Creek,Aug-22,9
+Stony Creek,Sep-22,40
+Stony Creek,Oct-22,87
+Stony Creek,Nov-22,7
+Stony Creek,Dec-22,32
+Stony Creek,Jan-23,55
+Stony Creek,Feb-23,76
+Stony Creek,Mar-23,55
+Stony Creek,Apr-23,33
+Stony Creek,May-23,87
+Stony Creek,Jun-23,36
+Stony Creek,Jul-23,49
+Marburg,Jul-21,19
+Marburg,Aug-21,53
+Marburg,Sep-21,92
+Marburg,Oct-21,95
+Marburg,Nov-21,28
+Marburg,Dec-21,86
+Marburg,Jan-22,7
+Marburg,Feb-22,65
+Marburg,Mar-22,91
+Marburg,Apr-22,85
+Marburg,May-22,92
+Marburg,Jun-22,54
+Marburg,Jul-22,35
+Marburg,Aug-22,68
+Marburg,Sep-22,8
+Marburg,Oct-22,71
+Marburg,Nov-22,38
+Marburg,Dec-22,48
+Marburg,Jan-23,94
+Marburg,Feb-23,38
+Marburg,Mar-23,27
+Marburg,Apr-23,89
+Marburg,May-23,9
+Marburg,Jun-23,16
+Marburg,Jul-23,96
+Royston,Jul-21,27
+Royston,Aug-21,52
+Royston,Sep-21,83
+Royston,Oct-21,60
+Royston,Nov-21,2
+Royston,Dec-21,17
+Royston,Jan-22,9
+Royston,Feb-22,82
+Royston,Mar-22,99
+Royston,Apr-22,81
+Royston,May-22,13
+Royston,Jun-22,43
+Royston,Jul-22,30
+Royston,Aug-22,61
+Royston,Sep-22,62
+Royston,Oct-22,14
+Royston,Nov-22,81
+Royston,Dec-22,17
+Royston,Jan-23,37
+Royston,Feb-23,35
+Royston,Mar-23,92
+Royston,Apr-23,11
+Royston,May-23,40
+Royston,Jun-23,54
+Royston,Jul-23,98
+Mount Pleasant,Jul-21,76
+Mount Pleasant,Aug-21,69
+Mount Pleasant,Sep-21,14
+Mount Pleasant,Oct-21,18
+Mount Pleasant,Nov-21,15
+Mount Pleasant,Dec-21,82
+Mount Pleasant,Jan-22,54
+Mount Pleasant,Feb-22,31
+Mount Pleasant,Mar-22,16
+Mount Pleasant,Apr-22,1
+Mount Pleasant,May-22,60
+Mount Pleasant,Jun-22,61
+Mount Pleasant,Jul-22,89
+Mount Pleasant,Aug-22,68
+Mount Pleasant,Sep-22,52
+Mount Pleasant,Oct-22,43
+Mount Pleasant,Nov-22,75
+Mount Pleasant,Dec-22,72
+Mount Pleasant,Jan-23,51
+Mount Pleasant,Feb-23,42
+Mount Pleasant,Mar-23,31
+Mount Pleasant,Apr-23,46
+Mount Pleasant,May-23,71
+Mount Pleasant,Jun-23,19
+Mount Pleasant,Jul-23,98
+Eskdale,Jul-21,90
+Eskdale,Aug-21,16
+Eskdale,Sep-21,8
+Eskdale,Oct-21,38
+Eskdale,Nov-21,29
+Eskdale,Dec-21,85
+Eskdale,Jan-22,60
+Eskdale,Feb-22,53
+Eskdale,Mar-22,13
+Eskdale,Apr-22,45
+Eskdale,May-22,70
+Eskdale,Jun-22,7
+Eskdale,Jul-22,79
+Eskdale,Aug-22,12
+Eskdale,Sep-22,36
+Eskdale,Oct-22,62
+Eskdale,Nov-22,63
+Eskdale,Dec-22,73
+Eskdale,Jan-23,71
+Eskdale,Feb-23,67
+Eskdale,Mar-23,61
+Eskdale,Apr-23,33
+Eskdale,May-23,8
+Eskdale,Jun-23,78
+Eskdale,Jul-23,42
+Fulham,Jul-21,58
+Fulham,Aug-21,74
+Fulham,Sep-21,64
+Fulham,Oct-21,22
+Fulham,Nov-21,34
+Fulham,Dec-21,88
+Fulham,Jan-22,11
+Fulham,Feb-22,78
+Fulham,Mar-22,18
+Fulham,Apr-22,56
+Fulham,May-22,82
+Fulham,Jun-22,98
+Fulham,Jul-22,39
+Fulham,Aug-22,70
+Fulham,Sep-22,65
+Fulham,Oct-22,87
+Fulham,Nov-22,83
+Fulham,Dec-22,47
+Fulham,Jan-23,34
+Fulham,Feb-23,19
+Fulham,Mar-23,40
+Fulham,Apr-23,14
+Fulham,May-23,47
+Fulham,Jun-23,92
+Fulham,Jul-23,36
+Pine Mountain,Jul-21,11
+Pine Mountain,Aug-21,15
+Pine Mountain,Sep-21,68
+Pine Mountain,Oct-21,71
+Pine Mountain,Nov-21,21
+Pine Mountain,Dec-21,87
+Pine Mountain,Jan-22,38
+Pine Mountain,Feb-22,76
+Pine Mountain,Mar-22,7
+Pine Mountain,Apr-22,2
+Pine Mountain,May-22,68
+Pine Mountain,Jun-22,19
+Pine Mountain,Jul-22,63
+Pine Mountain,Aug-22,84
+Pine Mountain,Sep-22,38
+Pine Mountain,Oct-22,45
+Pine Mountain,Nov-22,14
+Pine Mountain,Dec-22,12
+Pine Mountain,Jan-23,72
+Pine Mountain,Feb-23,4
+Pine Mountain,Mar-23,75
+Pine Mountain,Apr-23,78
+Pine Mountain,May-23,20
+Pine Mountain,Jun-23,73
+Pine Mountain,Jul-23,32
+Tarampa,Jul-21,91
+Tarampa,Aug-21,30
+Tarampa,Sep-21,44
+Tarampa,Oct-21,20
+Tarampa,Nov-21,79
+Tarampa,Dec-21,30
+Tarampa,Jan-22,4
+Tarampa,Feb-22,20
+Tarampa,Mar-22,51
+Tarampa,Apr-22,49
+Tarampa,May-22,28
+Tarampa,Jun-22,52
+Tarampa,Jul-22,66
+Tarampa,Aug-22,52
+Tarampa,Sep-22,63
+Tarampa,Oct-22,71
+Tarampa,Nov-22,49
+Tarampa,Dec-22,64
+Tarampa,Jan-23,63
+Tarampa,Feb-23,91
+Tarampa,Mar-23,85
+Tarampa,Apr-23,83
+Tarampa,May-23,16
+Tarampa,Jun-23,98
+Tarampa,Jul-23,98
+Wyalla,Jul-21,13
+Wyalla,Aug-21,80
+Wyalla,Sep-21,12
+Wyalla,Oct-21,98
+Wyalla,Nov-21,32
+Wyalla,Dec-21,48
+Wyalla,Jan-22,3
+Wyalla,Feb-22,71
+Wyalla,Mar-22,40
+Wyalla,Apr-22,37
+Wyalla,May-22,91
+Wyalla,Jun-22,1
+Wyalla,Jul-22,90
+Wyalla,Aug-22,51
+Wyalla,Sep-22,63
+Wyalla,Oct-22,50
+Wyalla,Nov-22,25
+Wyalla,Dec-22,26
+Wyalla,Jan-23,8
+Wyalla,Feb-23,30
+Wyalla,Mar-23,75
+Wyalla,Apr-23,65
+Wyalla,May-23,38
+Wyalla,Jun-23,21
+Wyalla,Jul-23,46
+Benarkin,Jul-21,36
+Benarkin,Aug-21,80
+Benarkin,Sep-21,15
+Benarkin,Oct-21,99
+Benarkin,Nov-21,80
+Benarkin,Dec-21,78
+Benarkin,Jan-22,49
+Benarkin,Feb-22,35
+Benarkin,Mar-22,13
+Benarkin,Apr-22,26
+Benarkin,May-22,29
+Benarkin,Jun-22,65
+Benarkin,Jul-22,41
+Benarkin,Aug-22,81
+Benarkin,Sep-22,35
+Benarkin,Oct-22,23
+Benarkin,Nov-22,23
+Benarkin,Dec-22,61
+Benarkin,Jan-23,66
+Benarkin,Feb-23,39
+Benarkin,Mar-23,47
+Benarkin,Apr-23,25
+Benarkin,May-23,88
+Benarkin,Jun-23,23
+Benarkin,Jul-23,86
+Cressbrook,Jul-21,82
+Cressbrook,Aug-21,92
+Cressbrook,Sep-21,15
+Cressbrook,Oct-21,80
+Cressbrook,Nov-21,72
+Cressbrook,Dec-21,39
+Cressbrook,Jan-22,63
+Cressbrook,Feb-22,1
+Cressbrook,Mar-22,23
+Cressbrook,Apr-22,22
+Cressbrook,May-22,14
+Cressbrook,Jun-22,97
+Cressbrook,Jul-22,49
+Cressbrook,Aug-22,46
+Cressbrook,Sep-22,77
+Cressbrook,Oct-22,99
+Cressbrook,Nov-22,100
+Cressbrook,Dec-22,46
+Cressbrook,Jan-23,65
+Cressbrook,Feb-23,15
+Cressbrook,Mar-23,13
+Cressbrook,Apr-23,44
+Cressbrook,May-23,94
+Cressbrook,Jun-23,15
+Cressbrook,Jul-23,27
+Vernor,Jul-21,19
+Vernor,Aug-21,64
+Vernor,Sep-21,75
+Vernor,Oct-21,52
+Vernor,Nov-21,59
+Vernor,Dec-21,1
+Vernor,Jan-22,84
+Vernor,Feb-22,31
+Vernor,Mar-22,72
+Vernor,Apr-22,86
+Vernor,May-22,30
+Vernor,Jun-22,81
+Vernor,Jul-22,74
+Vernor,Aug-22,55
+Vernor,Sep-22,84
+Vernor,Oct-22,35
+Vernor,Nov-22,91
+Vernor,Dec-22,35
+Vernor,Jan-23,5
+Vernor,Feb-23,50
+Vernor,Mar-23,4
+Vernor,Apr-23,37
+Vernor,May-23,46
+Vernor,Jun-23,6
+Vernor,Jul-23,40
+Churchable,Jul-21,36
+Churchable,Aug-21,59
+Churchable,Sep-21,67
+Churchable,Oct-21,50
+Churchable,Nov-21,61
+Churchable,Dec-21,74
+Churchable,Jan-22,97
+Churchable,Feb-22,19
+Churchable,Mar-22,74
+Churchable,Apr-22,15
+Churchable,May-22,89
+Churchable,Jun-22,62
+Churchable,Jul-22,14
+Churchable,Aug-22,11
+Churchable,Sep-22,98
+Churchable,Oct-22,43
+Churchable,Nov-22,24
+Churchable,Dec-22,92
+Churchable,Jan-23,81
+Churchable,Feb-23,68
+Churchable,Mar-23,9
+Churchable,Apr-23,70
+Churchable,May-23,92
+Churchable,Jun-23,88
+Churchable,Jul-23,31
+Crossdale,Jul-21,45
+Crossdale,Aug-21,25
+Crossdale,Sep-21,91
+Crossdale,Oct-21,72
+Crossdale,Nov-21,8
+Crossdale,Dec-21,54
+Crossdale,Jan-22,49
+Crossdale,Feb-22,58
+Crossdale,Mar-22,99
+Crossdale,Apr-22,25
+Crossdale,May-22,78
+Crossdale,Jun-22,92
+Crossdale,Jul-22,93
+Crossdale,Aug-22,85
+Crossdale,Sep-22,2
+Crossdale,Oct-22,77
+Crossdale,Nov-22,16
+Crossdale,Dec-22,43
+Crossdale,Jan-23,62
+Crossdale,Feb-23,68
+Crossdale,Mar-23,95
+Crossdale,Apr-23,43
+Crossdale,May-23,10
+Crossdale,Jun-23,64
+Crossdale,Jul-23,61
+Johnstown,Jul-21,86
+Johnstown,Aug-21,73
+Johnstown,Sep-21,58
+Johnstown,Oct-21,87
+Johnstown,Nov-21,83
+Johnstown,Dec-21,19
+Johnstown,Jan-22,97
+Johnstown,Feb-22,32
+Johnstown,Mar-22,44
+Johnstown,Apr-22,88
+Johnstown,May-22,50
+Johnstown,Jun-22,57
+Johnstown,Jul-22,21
+Johnstown,Aug-22,81
+Johnstown,Sep-22,76
+Johnstown,Oct-22,2
+Johnstown,Nov-22,45
+Johnstown,Dec-22,57
+Johnstown,Jan-23,16
+Johnstown,Feb-23,81
+Johnstown,Mar-23,84
+Johnstown,Apr-23,17
+Johnstown,May-23,37
+Johnstown,Jun-23,82
+Johnstown,Jul-23,99
+Winya,Jul-21,46
+Winya,Aug-21,89
+Winya,Sep-21,90
+Winya,Oct-21,16
+Winya,Nov-21,25
+Winya,Dec-21,87
+Winya,Jan-22,37
+Winya,Feb-22,47
+Winya,Mar-22,9
+Winya,Apr-22,64
+Winya,May-22,70
+Winya,Jun-22,60
+Winya,Jul-22,77
+Winya,Aug-22,8
+Winya,Sep-22,71
+Winya,Oct-22,49
+Winya,Nov-22,13
+Winya,Dec-22,30
+Winya,Jan-23,87
+Winya,Feb-23,2
+Winya,Mar-23,83
+Winya,Apr-23,92
+Winya,May-23,11
+Winya,Jun-23,57
+Winya,Jul-23,52
+Fairney View,Jul-21,25
+Fairney View,Aug-21,12
+Fairney View,Sep-21,91
+Fairney View,Oct-21,92
+Fairney View,Nov-21,86
+Fairney View,Dec-21,75
+Fairney View,Jan-22,84
+Fairney View,Feb-22,5
+Fairney View,Mar-22,85
+Fairney View,Apr-22,50
+Fairney View,May-22,44
+Fairney View,Jun-22,48
+Fairney View,Jul-22,33
+Fairney View,Aug-22,1
+Fairney View,Sep-22,78
+Fairney View,Oct-22,85
+Fairney View,Nov-22,56
+Fairney View,Dec-22,68
+Fairney View,Jan-23,13
+Fairney View,Feb-23,51
+Fairney View,Mar-23,89
+Fairney View,Apr-23,94
+Fairney View,May-23,49
+Fairney View,Jun-23,59
+Fairney View,Jul-23,99
+Mount Delaney,Jul-21,24
+Mount Delaney,Aug-21,6
+Mount Delaney,Sep-21,40
+Mount Delaney,Oct-21,94
+Mount Delaney,Nov-21,6
+Mount Delaney,Dec-21,26
+Mount Delaney,Jan-22,42
+Mount Delaney,Feb-22,54
+Mount Delaney,Mar-22,18
+Mount Delaney,Apr-22,46
+Mount Delaney,May-22,46
+Mount Delaney,Jun-22,11
+Mount Delaney,Jul-22,24
+Mount Delaney,Aug-22,97
+Mount Delaney,Sep-22,26
+Mount Delaney,Oct-22,48
+Mount Delaney,Nov-22,35
+Mount Delaney,Dec-22,99
+Mount Delaney,Jan-23,44
+Mount Delaney,Feb-23,2
+Mount Delaney,Mar-23,13
+Mount Delaney,Apr-23,1
+Mount Delaney,May-23,38
+Mount Delaney,Jun-23,12
+Mount Delaney,Jul-23,13
+Wivenhoe Pocket,Jul-21,34
+Wivenhoe Pocket,Aug-21,100
+Wivenhoe Pocket,Sep-21,71
+Wivenhoe Pocket,Oct-21,76
+Wivenhoe Pocket,Nov-21,73
+Wivenhoe Pocket,Dec-21,77
+Wivenhoe Pocket,Jan-22,51
+Wivenhoe Pocket,Feb-22,93
+Wivenhoe Pocket,Mar-22,46
+Wivenhoe Pocket,Apr-22,68
+Wivenhoe Pocket,May-22,41
+Wivenhoe Pocket,Jun-22,28
+Wivenhoe Pocket,Jul-22,60
+Wivenhoe Pocket,Aug-22,96
+Wivenhoe Pocket,Sep-22,8
+Wivenhoe Pocket,Oct-22,99
+Wivenhoe Pocket,Nov-22,78
+Wivenhoe Pocket,Dec-22,92
+Wivenhoe Pocket,Jan-23,72
+Wivenhoe Pocket,Feb-23,86
+Wivenhoe Pocket,Mar-23,24
+Wivenhoe Pocket,Apr-23,86
+Wivenhoe Pocket,May-23,12
+Wivenhoe Pocket,Jun-23,48
+Wivenhoe Pocket,Jul-23,3
+Kilcoy,Jul-21,29
+Kilcoy,Aug-21,17
+Kilcoy,Sep-21,81
+Kilcoy,Oct-21,36
+Kilcoy,Nov-21,78
+Kilcoy,Dec-21,97
+Kilcoy,Jan-22,73
+Kilcoy,Feb-22,18
+Kilcoy,Mar-22,50
+Kilcoy,Apr-22,94
+Kilcoy,May-22,9
+Kilcoy,Jun-22,7
+Kilcoy,Jul-22,86
+Kilcoy,Aug-22,31
+Kilcoy,Sep-22,6
+Kilcoy,Oct-22,30
+Kilcoy,Nov-22,58
+Kilcoy,Dec-22,86
+Kilcoy,Jan-23,20
+Kilcoy,Feb-23,6
+Kilcoy,Mar-23,81
+Kilcoy,Apr-23,18
+Kilcoy,May-23,80
+Kilcoy,Jun-23,44
+Kilcoy,Jul-23,9
+Tallegalla,Jul-21,32
+Tallegalla,Aug-21,84
+Tallegalla,Sep-21,29
+Tallegalla,Oct-21,34
+Tallegalla,Nov-21,28
+Tallegalla,Dec-21,84
+Tallegalla,Jan-22,8
+Tallegalla,Feb-22,17
+Tallegalla,Mar-22,17
+Tallegalla,Apr-22,95
+Tallegalla,May-22,13
+Tallegalla,Jun-22,74
+Tallegalla,Jul-22,70
+Tallegalla,Aug-22,44
+Tallegalla,Sep-22,83
+Tallegalla,Oct-22,41
+Tallegalla,Nov-22,10
+Tallegalla,Dec-22,50
+Tallegalla,Jan-23,56
+Tallegalla,Feb-23,13
+Tallegalla,Mar-23,19
+Tallegalla,Apr-23,36
+Tallegalla,May-23,44
+Tallegalla,Jun-23,6
+Tallegalla,Jul-23,5
+Mount Tarampa,Jul-21,5
+Mount Tarampa,Aug-21,6
+Mount Tarampa,Sep-21,28
+Mount Tarampa,Oct-21,9
+Mount Tarampa,Nov-21,51
+Mount Tarampa,Dec-21,94
+Mount Tarampa,Jan-22,72
+Mount Tarampa,Feb-22,21
+Mount Tarampa,Mar-22,80
+Mount Tarampa,Apr-22,25
+Mount Tarampa,May-22,67
+Mount Tarampa,Jun-22,100
+Mount Tarampa,Jul-22,2
+Mount Tarampa,Aug-22,23
+Mount Tarampa,Sep-22,19
+Mount Tarampa,Oct-22,97
+Mount Tarampa,Nov-22,18
+Mount Tarampa,Dec-22,94
+Mount Tarampa,Jan-23,23
+Mount Tarampa,Feb-23,71
+Mount Tarampa,Mar-23,80
+Mount Tarampa,Apr-23,100
+Mount Tarampa,May-23,17
+Mount Tarampa,Jun-23,81
+Mount Tarampa,Jul-23,66
+Kholo,Jul-21,53
+Kholo,Aug-21,88
+Kholo,Sep-21,16
+Kholo,Oct-21,63
+Kholo,Nov-21,21
+Kholo,Dec-21,63
+Kholo,Jan-22,79
+Kholo,Feb-22,41
+Kholo,Mar-22,12
+Kholo,Apr-22,60
+Kholo,May-22,42
+Kholo,Jun-22,28
+Kholo,Jul-22,88
+Kholo,Aug-22,33
+Kholo,Sep-22,33
+Kholo,Oct-22,61
+Kholo,Nov-22,36
+Kholo,Dec-22,81
+Kholo,Jan-23,67
+Kholo,Feb-23,63
+Kholo,Mar-23,21
+Kholo,Apr-23,36
+Kholo,May-23,67
+Kholo,Jun-23,15
+Kholo,Jul-23,77
+Cooeeimbardi,Jul-21,99
+Cooeeimbardi,Aug-21,12
+Cooeeimbardi,Sep-21,73
+Cooeeimbardi,Oct-21,96
+Cooeeimbardi,Nov-21,15
+Cooeeimbardi,Dec-21,53
+Cooeeimbardi,Jan-22,15
+Cooeeimbardi,Feb-22,31
+Cooeeimbardi,Mar-22,78
+Cooeeimbardi,Apr-22,52
+Cooeeimbardi,May-22,2
+Cooeeimbardi,Jun-22,66
+Cooeeimbardi,Jul-22,71
+Cooeeimbardi,Aug-22,87
+Cooeeimbardi,Sep-22,57
+Cooeeimbardi,Oct-22,29
+Cooeeimbardi,Nov-22,99
+Cooeeimbardi,Dec-22,66
+Cooeeimbardi,Jan-23,99
+Cooeeimbardi,Feb-23,79
+Cooeeimbardi,Mar-23,31
+Cooeeimbardi,Apr-23,77
+Cooeeimbardi,May-23,51
+Cooeeimbardi,Jun-23,32
+Cooeeimbardi,Jul-23,94
+Borallon,Jul-21,10
+Borallon,Aug-21,86
+Borallon,Sep-21,30
+Borallon,Oct-21,14
+Borallon,Nov-21,86
+Borallon,Dec-21,26
+Borallon,Jan-22,41
+Borallon,Feb-22,50
+Borallon,Mar-22,9
+Borallon,Apr-22,88
+Borallon,May-22,52
+Borallon,Jun-22,34
+Borallon,Jul-22,19
+Borallon,Aug-22,97
+Borallon,Sep-22,28
+Borallon,Oct-22,62
+Borallon,Nov-22,39
+Borallon,Dec-22,50
+Borallon,Jan-23,66
+Borallon,Feb-23,17
+Borallon,Mar-23,62
+Borallon,Apr-23,49
+Borallon,May-23,56
+Borallon,Jun-23,31
+Borallon,Jul-23,7
+Yimbun,Jul-21,77
+Yimbun,Aug-21,88
+Yimbun,Sep-21,14
+Yimbun,Oct-21,20
+Yimbun,Nov-21,93
+Yimbun,Dec-21,35
+Yimbun,Jan-22,53
+Yimbun,Feb-22,21
+Yimbun,Mar-22,9
+Yimbun,Apr-22,34
+Yimbun,May-22,79
+Yimbun,Jun-22,31
+Yimbun,Jul-22,67
+Yimbun,Aug-22,90
+Yimbun,Sep-22,71
+Yimbun,Oct-22,25
+Yimbun,Nov-22,4
+Yimbun,Dec-22,58
+Yimbun,Jan-23,71
+Yimbun,Feb-23,66
+Yimbun,Mar-23,90
+Yimbun,Apr-23,18
+Yimbun,May-23,7
+Yimbun,Jun-23,56
+Yimbun,Jul-23,2
+Somerset Dam,Jul-21,63
+Somerset Dam,Aug-21,64
+Somerset Dam,Sep-21,72
+Somerset Dam,Oct-21,98
+Somerset Dam,Nov-21,11
+Somerset Dam,Dec-21,40
+Somerset Dam,Jan-22,24
+Somerset Dam,Feb-22,91
+Somerset Dam,Mar-22,22
+Somerset Dam,Apr-22,55
+Somerset Dam,May-22,43
+Somerset Dam,Jun-22,30
+Somerset Dam,Jul-22,79
+Somerset Dam,Aug-22,38
+Somerset Dam,Sep-22,48
+Somerset Dam,Oct-22,33
+Somerset Dam,Nov-22,99
+Somerset Dam,Dec-22,68
+Somerset Dam,Jan-23,90
+Somerset Dam,Feb-23,82
+Somerset Dam,Mar-23,78
+Somerset Dam,Apr-23,97
+Somerset Dam,May-23,68
+Somerset Dam,Jun-23,34
+Somerset Dam,Jul-23,4
+Kenilworth,Jul-21,21
+Kenilworth,Aug-21,13
+Kenilworth,Sep-21,95
+Kenilworth,Oct-21,35
+Kenilworth,Nov-21,45
+Kenilworth,Dec-21,71
+Kenilworth,Jan-22,79
+Kenilworth,Feb-22,91
+Kenilworth,Mar-22,65
+Kenilworth,Apr-22,37
+Kenilworth,May-22,12
+Kenilworth,Jun-22,43
+Kenilworth,Jul-22,58
+Kenilworth,Aug-22,58
+Kenilworth,Sep-22,6
+Kenilworth,Oct-22,54
+Kenilworth,Nov-22,36
+Kenilworth,Dec-22,51
+Kenilworth,Jan-23,27
+Kenilworth,Feb-23,8
+Kenilworth,Mar-23,89
+Kenilworth,Apr-23,27
+Kenilworth,May-23,19
+Kenilworth,Jun-23,76
+Kenilworth,Jul-23,78
+Braemore,Jul-21,75
+Braemore,Aug-21,19
+Braemore,Sep-21,80
+Braemore,Oct-21,31
+Braemore,Nov-21,20
+Braemore,Dec-21,6
+Braemore,Jan-22,95
+Braemore,Feb-22,24
+Braemore,Mar-22,69
+Braemore,Apr-22,80
+Braemore,May-22,20
+Braemore,Jun-22,90
+Braemore,Jul-22,55
+Braemore,Aug-22,20
+Braemore,Sep-22,11
+Braemore,Oct-22,15
+Braemore,Nov-22,72
+Braemore,Dec-22,49
+Braemore,Jan-23,63
+Braemore,Feb-23,92
+Braemore,Mar-23,84
+Braemore,Apr-23,80
+Braemore,May-23,23
+Braemore,Jun-23,62
+Braemore,Jul-23,99
+Coolana,Jul-21,82
+Coolana,Aug-21,15
+Coolana,Sep-21,74
+Coolana,Oct-21,76
+Coolana,Nov-21,83
+Coolana,Dec-21,42
+Coolana,Jan-22,98
+Coolana,Feb-22,73
+Coolana,Mar-22,74
+Coolana,Apr-22,86
+Coolana,May-22,16
+Coolana,Jun-22,97
+Coolana,Jul-22,78
+Coolana,Aug-22,68
+Coolana,Sep-22,23
+Coolana,Oct-22,44
+Coolana,Nov-22,63
+Coolana,Dec-22,96
+Coolana,Jan-23,73
+Coolana,Feb-23,47
+Coolana,Mar-23,94
+Coolana,Apr-23,86
+Coolana,May-23,65
+Coolana,Jun-23,48
+Coolana,Jul-23,85
+Lowood,Jul-21,85
+Lowood,Aug-21,42
+Lowood,Sep-21,44
+Lowood,Oct-21,45
+Lowood,Nov-21,98
+Lowood,Dec-21,23
+Lowood,Jan-22,16
+Lowood,Feb-22,31
+Lowood,Mar-22,9
+Lowood,Apr-22,33
+Lowood,May-22,57
+Lowood,Jun-22,44
+Lowood,Jul-22,54
+Lowood,Aug-22,59
+Lowood,Sep-22,13
+Lowood,Oct-22,89
+Lowood,Nov-22,10
+Lowood,Dec-22,50
+Lowood,Jan-23,38
+Lowood,Feb-23,40
+Lowood,Mar-23,54
+Lowood,Apr-23,22
+Lowood,May-23,0
+Lowood,Jun-23,56
+Lowood,Jul-23,40
+Mount Stanley,Jul-21,52
+Mount Stanley,Aug-21,3
+Mount Stanley,Sep-21,100
+Mount Stanley,Oct-21,77
+Mount Stanley,Nov-21,22
+Mount Stanley,Dec-21,1
+Mount Stanley,Jan-22,52
+Mount Stanley,Feb-22,23
+Mount Stanley,Mar-22,73
+Mount Stanley,Apr-22,67
+Mount Stanley,May-22,75
+Mount Stanley,Jun-22,35
+Mount Stanley,Jul-22,17
+Mount Stanley,Aug-22,33
+Mount Stanley,Sep-22,76
+Mount Stanley,Oct-22,88
+Mount Stanley,Nov-22,42
+Mount Stanley,Dec-22,69
+Mount Stanley,Jan-23,51
+Mount Stanley,Feb-23,90
+Mount Stanley,Mar-23,19
+Mount Stanley,Apr-23,85
+Mount Stanley,May-23,8
+Mount Stanley,Jun-23,21
+Mount Stanley,Jul-23,36
+Upper Kandanga,Jul-21,83
+Upper Kandanga,Aug-21,63
+Upper Kandanga,Sep-21,82
+Upper Kandanga,Oct-21,74
+Upper Kandanga,Nov-21,35
+Upper Kandanga,Dec-21,1
+Upper Kandanga,Jan-22,55
+Upper Kandanga,Feb-22,43
+Upper Kandanga,Mar-22,16
+Upper Kandanga,Apr-22,54
+Upper Kandanga,May-22,63
+Upper Kandanga,Jun-22,5
+Upper Kandanga,Jul-22,84
+Upper Kandanga,Aug-22,47
+Upper Kandanga,Sep-22,65
+Upper Kandanga,Oct-22,18
+Upper Kandanga,Nov-22,48
+Upper Kandanga,Dec-22,50
+Upper Kandanga,Jan-23,4
+Upper Kandanga,Feb-23,62
+Upper Kandanga,Mar-23,12
+Upper Kandanga,Apr-23,100
+Upper Kandanga,May-23,79
+Upper Kandanga,Jun-23,77
+Upper Kandanga,Jul-23,91
+Harlin,Jul-21,5
+Harlin,Aug-21,17
+Harlin,Sep-21,71
+Harlin,Oct-21,48
+Harlin,Nov-21,58
+Harlin,Dec-21,14
+Harlin,Jan-22,43
+Harlin,Feb-22,13
+Harlin,Mar-22,72
+Harlin,Apr-22,34
+Harlin,May-22,25
+Harlin,Jun-22,0
+Harlin,Jul-22,90
+Harlin,Aug-22,2
+Harlin,Sep-22,78
+Harlin,Oct-22,44
+Harlin,Nov-22,25
+Harlin,Dec-22,35
+Harlin,Jan-23,60
+Harlin,Feb-23,83
+Harlin,Mar-23,63
+Harlin,Apr-23,19
+Harlin,May-23,74
+Harlin,Jun-23,80
+Harlin,Jul-23,50
+Elgin Vale,Jul-21,0
+Elgin Vale,Aug-21,87
+Elgin Vale,Sep-21,62
+Elgin Vale,Oct-21,57
+Elgin Vale,Nov-21,94
+Elgin Vale,Dec-21,70
+Elgin Vale,Jan-22,4
+Elgin Vale,Feb-22,84
+Elgin Vale,Mar-22,17
+Elgin Vale,Apr-22,86
+Elgin Vale,May-22,8
+Elgin Vale,Jun-22,93
+Elgin Vale,Jul-22,98
+Elgin Vale,Aug-22,34
+Elgin Vale,Sep-22,69
+Elgin Vale,Oct-22,5
+Elgin Vale,Nov-22,68
+Elgin Vale,Dec-22,68
+Elgin Vale,Jan-23,74
+Elgin Vale,Feb-23,86
+Elgin Vale,Mar-23,84
+Elgin Vale,Apr-23,40
+Elgin Vale,May-23,11
+Elgin Vale,Jun-23,42
+Elgin Vale,Jul-23,57
+Lake Wivenhoe,Jul-21,86
+Lake Wivenhoe,Aug-21,56
+Lake Wivenhoe,Sep-21,48
+Lake Wivenhoe,Oct-21,59
+Lake Wivenhoe,Nov-21,98
+Lake Wivenhoe,Dec-21,52
+Lake Wivenhoe,Jan-22,100
+Lake Wivenhoe,Feb-22,78
+Lake Wivenhoe,Mar-22,10
+Lake Wivenhoe,Apr-22,18
+Lake Wivenhoe,May-22,25
+Lake Wivenhoe,Jun-22,77
+Lake Wivenhoe,Jul-22,69
+Lake Wivenhoe,Aug-22,74
+Lake Wivenhoe,Sep-22,52
+Lake Wivenhoe,Oct-22,22
+Lake Wivenhoe,Nov-22,84
+Lake Wivenhoe,Dec-22,61
+Lake Wivenhoe,Jan-23,0
+Lake Wivenhoe,Feb-23,32
+Lake Wivenhoe,Mar-23,69
+Lake Wivenhoe,Apr-23,60
+Lake Wivenhoe,May-23,32
+Lake Wivenhoe,Jun-23,76
+Lake Wivenhoe,Jul-23,34
+Lark Hill,Jul-21,33
+Lark Hill,Aug-21,23
+Lark Hill,Sep-21,57
+Lark Hill,Oct-21,14
+Lark Hill,Nov-21,53
+Lark Hill,Dec-21,4
+Lark Hill,Jan-22,23
+Lark Hill,Feb-22,19
+Lark Hill,Mar-22,81
+Lark Hill,Apr-22,50
+Lark Hill,May-22,42
+Lark Hill,Jun-22,46
+Lark Hill,Jul-22,95
+Lark Hill,Aug-22,2
+Lark Hill,Sep-22,57
+Lark Hill,Oct-22,70
+Lark Hill,Nov-22,37
+Lark Hill,Dec-22,15
+Lark Hill,Jan-23,7
+Lark Hill,Feb-23,96
+Lark Hill,Mar-23,81
+Lark Hill,Apr-23,7
+Lark Hill,May-23,33
+Lark Hill,Jun-23,82
+Lark Hill,Jul-23,49
+Coal Creek,Jul-21,56
+Coal Creek,Aug-21,88
+Coal Creek,Sep-21,64
+Coal Creek,Oct-21,73
+Coal Creek,Nov-21,28
+Coal Creek,Dec-21,47
+Coal Creek,Jan-22,33
+Coal Creek,Feb-22,98
+Coal Creek,Mar-22,58
+Coal Creek,Apr-22,13
+Coal Creek,May-22,54
+Coal Creek,Jun-22,58
+Coal Creek,Jul-22,7
+Coal Creek,Aug-22,41
+Coal Creek,Sep-22,95
+Coal Creek,Oct-22,1
+Coal Creek,Nov-22,75
+Coal Creek,Dec-22,26
+Coal Creek,Jan-23,80
+Coal Creek,Feb-23,79
+Coal Creek,Mar-23,80
+Coal Creek,Apr-23,70
+Coal Creek,May-23,80
+Coal Creek,Jun-23,26
+Coal Creek,Jul-23,96
+Murrumba,Jul-21,36
+Murrumba,Aug-21,13
+Murrumba,Sep-21,10
+Murrumba,Oct-21,17
+Murrumba,Nov-21,2
+Murrumba,Dec-21,4
+Murrumba,Jan-22,81
+Murrumba,Feb-22,43
+Murrumba,Mar-22,46
+Murrumba,Apr-22,19
+Murrumba,May-22,57
+Murrumba,Jun-22,43
+Murrumba,Jul-22,55
+Murrumba,Aug-22,12
+Murrumba,Sep-22,90
+Murrumba,Oct-22,31
+Murrumba,Nov-22,69
+Murrumba,Dec-22,29
+Murrumba,Jan-23,38
+Murrumba,Feb-23,36
+Murrumba,Mar-23,85
+Murrumba,Apr-23,3
+Murrumba,May-23,47
+Murrumba,Jun-23,92
+Murrumba,Jul-23,56
+Mount Kilcoy,Jul-21,5
+Mount Kilcoy,Aug-21,81
+Mount Kilcoy,Sep-21,62
+Mount Kilcoy,Oct-21,94
+Mount Kilcoy,Nov-21,83
+Mount Kilcoy,Dec-21,27
+Mount Kilcoy,Jan-22,29
+Mount Kilcoy,Feb-22,3
+Mount Kilcoy,Mar-22,94
+Mount Kilcoy,Apr-22,42
+Mount Kilcoy,May-22,21
+Mount Kilcoy,Jun-22,39
+Mount Kilcoy,Jul-22,92
+Mount Kilcoy,Aug-22,27
+Mount Kilcoy,Sep-22,37
+Mount Kilcoy,Oct-22,96
+Mount Kilcoy,Nov-22,41
+Mount Kilcoy,Dec-22,93
+Mount Kilcoy,Jan-23,28
+Mount Kilcoy,Feb-23,69
+Mount Kilcoy,Mar-23,87
+Mount Kilcoy,Apr-23,95
+Mount Kilcoy,May-23,33
+Mount Kilcoy,Jun-23,10
+Mount Kilcoy,Jul-23,74
+Rifle Range,Jul-21,96
+Rifle Range,Aug-21,14
+Rifle Range,Sep-21,41
+Rifle Range,Oct-21,31
+Rifle Range,Nov-21,27
+Rifle Range,Dec-21,98
+Rifle Range,Jan-22,0
+Rifle Range,Feb-22,32
+Rifle Range,Mar-22,24
+Rifle Range,Apr-22,96
+Rifle Range,May-22,64
+Rifle Range,Jun-22,41
+Rifle Range,Jul-22,70
+Rifle Range,Aug-22,53
+Rifle Range,Sep-22,81
+Rifle Range,Oct-22,12
+Rifle Range,Nov-22,17
+Rifle Range,Dec-22,23
+Rifle Range,Jan-23,77
+Rifle Range,Feb-23,47
+Rifle Range,Mar-23,26
+Rifle Range,Apr-23,36
+Rifle Range,May-23,9
+Rifle Range,Jun-23,88
+Rifle Range,Jul-23,41
+Lake Manchester,Jul-21,0
+Lake Manchester,Aug-21,19
+Lake Manchester,Sep-21,70
+Lake Manchester,Oct-21,38
+Lake Manchester,Nov-21,25
+Lake Manchester,Dec-21,16
+Lake Manchester,Jan-22,27
+Lake Manchester,Feb-22,41
+Lake Manchester,Mar-22,94
+Lake Manchester,Apr-22,20
+Lake Manchester,May-22,52
+Lake Manchester,Jun-22,88
+Lake Manchester,Jul-22,20
+Lake Manchester,Aug-22,56
+Lake Manchester,Sep-22,40
+Lake Manchester,Oct-22,56
+Lake Manchester,Nov-22,41
+Lake Manchester,Dec-22,90
+Lake Manchester,Jan-23,30
+Lake Manchester,Feb-23,82
+Lake Manchester,Mar-23,90
+Lake Manchester,Apr-23,75
+Lake Manchester,May-23,57
+Lake Manchester,Jun-23,93
+Lake Manchester,Jul-23,55
+Mount Beppo,Jul-21,54
+Mount Beppo,Aug-21,5
+Mount Beppo,Sep-21,49
+Mount Beppo,Oct-21,76
+Mount Beppo,Nov-21,1
+Mount Beppo,Dec-21,87
+Mount Beppo,Jan-22,53
+Mount Beppo,Feb-22,87
+Mount Beppo,Mar-22,21
+Mount Beppo,Apr-22,83
+Mount Beppo,May-22,96
+Mount Beppo,Jun-22,68
+Mount Beppo,Jul-22,68
+Mount Beppo,Aug-22,64
+Mount Beppo,Sep-22,48
+Mount Beppo,Oct-22,100
+Mount Beppo,Nov-22,51
+Mount Beppo,Dec-22,87
+Mount Beppo,Jan-23,19
+Mount Beppo,Feb-23,46
+Mount Beppo,Mar-23,48
+Mount Beppo,Apr-23,10
+Mount Beppo,May-23,62
+Mount Beppo,Jun-23,28
+Mount Beppo,Jul-23,77
+Split Yard Creek,Jul-21,20
+Split Yard Creek,Aug-21,9
+Split Yard Creek,Sep-21,75
+Split Yard Creek,Oct-21,37
+Split Yard Creek,Nov-21,19
+Split Yard Creek,Dec-21,57
+Split Yard Creek,Jan-22,73
+Split Yard Creek,Feb-22,2
+Split Yard Creek,Mar-22,60
+Split Yard Creek,Apr-22,19
+Split Yard Creek,May-22,67
+Split Yard Creek,Jun-22,34
+Split Yard Creek,Jul-22,87
+Split Yard Creek,Aug-22,70
+Split Yard Creek,Sep-22,64
+Split Yard Creek,Oct-22,23
+Split Yard Creek,Nov-22,4
+Split Yard Creek,Dec-22,30
+Split Yard Creek,Jan-23,49
+Split Yard Creek,Feb-23,1
+Split Yard Creek,Mar-23,99
+Split Yard Creek,Apr-23,73
+Split Yard Creek,May-23,92
+Split Yard Creek,Jun-23,16
+Split Yard Creek,Jul-23,73
+Prenzlau,Jul-21,35
+Prenzlau,Aug-21,54
+Prenzlau,Sep-21,69
+Prenzlau,Oct-21,11
+Prenzlau,Nov-21,70
+Prenzlau,Dec-21,67
+Prenzlau,Jan-22,18
+Prenzlau,Feb-22,23
+Prenzlau,Mar-22,5
+Prenzlau,Apr-22,100
+Prenzlau,May-22,88
+Prenzlau,Jun-22,80
+Prenzlau,Jul-22,12
+Prenzlau,Aug-22,57
+Prenzlau,Sep-22,62
+Prenzlau,Oct-22,31
+Prenzlau,Nov-22,14
+Prenzlau,Dec-22,34
+Prenzlau,Jan-23,57
+Prenzlau,Feb-23,47
+Prenzlau,Mar-23,100
+Prenzlau,Apr-23,98
+Prenzlau,May-23,41
+Prenzlau,Jun-23,49
+Prenzlau,Jul-23,2
+The Bluff,Jul-21,82
+The Bluff,Aug-21,34
+The Bluff,Sep-21,80
+The Bluff,Oct-21,60
+The Bluff,Nov-21,58
+The Bluff,Dec-21,66
+The Bluff,Jan-22,76
+The Bluff,Feb-22,12
+The Bluff,Mar-22,16
+The Bluff,Apr-22,70
+The Bluff,May-22,80
+The Bluff,Jun-22,31
+The Bluff,Jul-22,21
+The Bluff,Aug-22,31
+The Bluff,Sep-22,19
+The Bluff,Oct-22,38
+The Bluff,Nov-22,76
+The Bluff,Dec-22,23
+The Bluff,Jan-23,61
+The Bluff,Feb-23,38
+The Bluff,Mar-23,77
+The Bluff,Apr-23,51
+The Bluff,May-23,39
+The Bluff,Jun-23,7
+The Bluff,Jul-23,67
+Minden,Jul-21,75
+Minden,Aug-21,17
+Minden,Sep-21,9
+Minden,Oct-21,1
+Minden,Nov-21,34
+Minden,Dec-21,65
+Minden,Jan-22,62
+Minden,Feb-22,37
+Minden,Mar-22,7
+Minden,Apr-22,73
+Minden,May-22,19
+Minden,Jun-22,63
+Minden,Jul-22,86
+Minden,Aug-22,29
+Minden,Sep-22,68
+Minden,Oct-22,59
+Minden,Nov-22,88
+Minden,Dec-22,95
+Minden,Jan-23,67
+Minden,Feb-23,98
+Minden,Mar-23,99
+Minden,Apr-23,15
+Minden,May-23,25
+Minden,Jun-23,92
+Minden,Jul-23,88
+Ivory Creek,Jul-21,21
+Ivory Creek,Aug-21,73
+Ivory Creek,Sep-21,67
+Ivory Creek,Oct-21,17
+Ivory Creek,Nov-21,43
+Ivory Creek,Dec-21,46
+Ivory Creek,Jan-22,61
+Ivory Creek,Feb-22,81
+Ivory Creek,Mar-22,37
+Ivory Creek,Apr-22,70
+Ivory Creek,May-22,43
+Ivory Creek,Jun-22,21
+Ivory Creek,Jul-22,36
+Ivory Creek,Aug-22,72
+Ivory Creek,Sep-22,5
+Ivory Creek,Oct-22,95
+Ivory Creek,Nov-22,25
+Ivory Creek,Dec-22,43
+Ivory Creek,Jan-23,89
+Ivory Creek,Feb-23,11
+Ivory Creek,Mar-23,63
+Ivory Creek,Apr-23,66
+Ivory Creek,May-23,80
+Ivory Creek,Jun-23,2
+Ivory Creek,Jul-23,81
+Bellthorpe,Jul-21,46
+Bellthorpe,Aug-21,44
+Bellthorpe,Sep-21,5
+Bellthorpe,Oct-21,65
+Bellthorpe,Nov-21,52
+Bellthorpe,Dec-21,12
+Bellthorpe,Jan-22,31
+Bellthorpe,Feb-22,85
+Bellthorpe,Mar-22,7
+Bellthorpe,Apr-22,21
+Bellthorpe,May-22,36
+Bellthorpe,Jun-22,64
+Bellthorpe,Jul-22,14
+Bellthorpe,Aug-22,9
+Bellthorpe,Sep-22,4
+Bellthorpe,Oct-22,16
+Bellthorpe,Nov-22,12
+Bellthorpe,Dec-22,17
+Bellthorpe,Jan-23,55
+Bellthorpe,Feb-23,93
+Bellthorpe,Mar-23,2
+Bellthorpe,Apr-23,83
+Bellthorpe,May-23,65
+Bellthorpe,Jun-23,27
+Bellthorpe,Jul-23,69
+Neurum,Jul-21,79
+Neurum,Aug-21,72
+Neurum,Sep-21,14
+Neurum,Oct-21,96
+Neurum,Nov-21,17
+Neurum,Dec-21,45
+Neurum,Jan-22,11
+Neurum,Feb-22,14
+Neurum,Mar-22,10
+Neurum,Apr-22,77
+Neurum,May-22,88
+Neurum,Jun-22,26
+Neurum,Jul-22,39
+Neurum,Aug-22,73
+Neurum,Sep-22,80
+Neurum,Oct-22,42
+Neurum,Nov-22,95
+Neurum,Dec-22,77
+Neurum,Jan-23,59
+Neurum,Feb-23,5
+Neurum,Mar-23,15
+Neurum,Apr-23,19
+Neurum,May-23,26
+Neurum,Jun-23,38
+Neurum,Jul-23,72
+Redbank Creek,Jul-21,51
+Redbank Creek,Aug-21,13
+Redbank Creek,Sep-21,50
+Redbank Creek,Oct-21,60
+Redbank Creek,Nov-21,78
+Redbank Creek,Dec-21,19
+Redbank Creek,Jan-22,90
+Redbank Creek,Feb-22,65
+Redbank Creek,Mar-22,35
+Redbank Creek,Apr-22,65
+Redbank Creek,May-22,62
+Redbank Creek,Jun-22,62
+Redbank Creek,Jul-22,59
+Redbank Creek,Aug-22,60
+Redbank Creek,Sep-22,33
+Redbank Creek,Oct-22,58
+Redbank Creek,Nov-22,28
+Redbank Creek,Dec-22,67
+Redbank Creek,Jan-23,20
+Redbank Creek,Feb-23,71
+Redbank Creek,Mar-23,64
+Redbank Creek,Apr-23,40
+Redbank Creek,May-23,82
+Redbank Creek,Jun-23,63
+Redbank Creek,Jul-23,71
+Bryden,Jul-21,86
+Bryden,Aug-21,62
+Bryden,Sep-21,0
+Bryden,Oct-21,33
+Bryden,Nov-21,77
+Bryden,Dec-21,14
+Bryden,Jan-22,79
+Bryden,Feb-22,88
+Bryden,Mar-22,51
+Bryden,Apr-22,9
+Bryden,May-22,99
+Bryden,Jun-22,61
+Bryden,Jul-22,66
+Bryden,Aug-22,58
+Bryden,Sep-22,88
+Bryden,Oct-22,67
+Bryden,Nov-22,57
+Bryden,Dec-22,9
+Bryden,Jan-23,38
+Bryden,Feb-23,97
+Bryden,Mar-23,16
+Bryden,Apr-23,84
+Bryden,May-23,94
+Bryden,Jun-23,54
+Bryden,Jul-23,70
+Mount Glorious,Jul-21,12
+Mount Glorious,Aug-21,82
+Mount Glorious,Sep-21,49
+Mount Glorious,Oct-21,69
+Mount Glorious,Nov-21,50
+Mount Glorious,Dec-21,97
+Mount Glorious,Jan-22,21
+Mount Glorious,Feb-22,75
+Mount Glorious,Mar-22,84
+Mount Glorious,Apr-22,51
+Mount Glorious,May-22,73
+Mount Glorious,Jun-22,23
+Mount Glorious,Jul-22,16
+Mount Glorious,Aug-22,45
+Mount Glorious,Sep-22,60
+Mount Glorious,Oct-22,98
+Mount Glorious,Nov-22,10
+Mount Glorious,Dec-22,37
+Mount Glorious,Jan-23,38
+Mount Glorious,Feb-23,6
+Mount Glorious,Mar-23,29
+Mount Glorious,Apr-23,54
+Mount Glorious,May-23,76
+Mount Glorious,Jun-23,90
+Mount Glorious,Jul-23,55
+Glamorgan Vale,Jul-21,34
+Glamorgan Vale,Aug-21,25
+Glamorgan Vale,Sep-21,97
+Glamorgan Vale,Oct-21,36
+Glamorgan Vale,Nov-21,73
+Glamorgan Vale,Dec-21,50
+Glamorgan Vale,Jan-22,86
+Glamorgan Vale,Feb-22,46
+Glamorgan Vale,Mar-22,20
+Glamorgan Vale,Apr-22,88
+Glamorgan Vale,May-22,25
+Glamorgan Vale,Jun-22,1
+Glamorgan Vale,Jul-22,32
+Glamorgan Vale,Aug-22,33
+Glamorgan Vale,Sep-22,65
+Glamorgan Vale,Oct-22,66
+Glamorgan Vale,Nov-22,66
+Glamorgan Vale,Dec-22,90
+Glamorgan Vale,Jan-23,83
+Glamorgan Vale,Feb-23,95
+Glamorgan Vale,Mar-23,88
+Glamorgan Vale,Apr-23,36
+Glamorgan Vale,May-23,68
+Glamorgan Vale,Jun-23,73
+Glamorgan Vale,Jul-23,4
+Cressbrook Creek,Jul-21,24
+Cressbrook Creek,Aug-21,25
+Cressbrook Creek,Sep-21,66
+Cressbrook Creek,Oct-21,49
+Cressbrook Creek,Nov-21,19
+Cressbrook Creek,Dec-21,98
+Cressbrook Creek,Jan-22,4
+Cressbrook Creek,Feb-22,92
+Cressbrook Creek,Mar-22,64
+Cressbrook Creek,Apr-22,69
+Cressbrook Creek,May-22,12
+Cressbrook Creek,Jun-22,73
+Cressbrook Creek,Jul-22,100
+Cressbrook Creek,Aug-22,81
+Cressbrook Creek,Sep-22,63
+Cressbrook Creek,Oct-22,55
+Cressbrook Creek,Nov-22,84
+Cressbrook Creek,Dec-22,46
+Cressbrook Creek,Jan-23,0
+Cressbrook Creek,Feb-23,97
+Cressbrook Creek,Mar-23,12
+Cressbrook Creek,Apr-23,74
+Cressbrook Creek,May-23,4
+Cressbrook Creek,Jun-23,52
+Cressbrook Creek,Jul-23,37
+Bullcamp,Jul-21,44
+Bullcamp,Aug-21,11
+Bullcamp,Sep-21,90
+Bullcamp,Oct-21,67
+Bullcamp,Nov-21,57
+Bullcamp,Dec-21,95
+Bullcamp,Jan-22,29
+Bullcamp,Feb-22,60
+Bullcamp,Mar-22,85
+Bullcamp,Apr-22,94
+Bullcamp,May-22,11
+Bullcamp,Jun-22,27
+Bullcamp,Jul-22,91
+Bullcamp,Aug-22,78
+Bullcamp,Sep-22,56
+Bullcamp,Oct-22,25
+Bullcamp,Nov-22,6
+Bullcamp,Dec-22,78
+Bullcamp,Jan-23,18
+Bullcamp,Feb-23,39
+Bullcamp,Mar-23,71
+Bullcamp,Apr-23,17
+Bullcamp,May-23,3
+Bullcamp,Jun-23,1
+Bullcamp,Jul-23,33
+Westvale,Jul-21,31
+Westvale,Aug-21,53
+Westvale,Sep-21,5
+Westvale,Oct-21,6
+Westvale,Nov-21,94
+Westvale,Dec-21,49
+Westvale,Jan-22,93
+Westvale,Feb-22,26
+Westvale,Mar-22,78
+Westvale,Apr-22,27
+Westvale,May-22,33
+Westvale,Jun-22,27
+Westvale,Jul-22,65
+Westvale,Aug-22,18
+Westvale,Sep-22,11
+Westvale,Oct-22,9
+Westvale,Nov-22,15
+Westvale,Dec-22,35
+Westvale,Jan-23,45
+Westvale,Feb-23,24
+Westvale,Mar-23,12
+Westvale,Apr-23,9
+Westvale,May-23,32
+Westvale,Jun-23,70
+Westvale,Jul-23,60
+Avoca Vale,Jul-21,42
+Avoca Vale,Aug-21,45
+Avoca Vale,Sep-21,34
+Avoca Vale,Oct-21,21
+Avoca Vale,Nov-21,32
+Avoca Vale,Dec-21,51
+Avoca Vale,Jan-22,57
+Avoca Vale,Feb-22,97
+Avoca Vale,Mar-22,60
+Avoca Vale,Apr-22,28
+Avoca Vale,May-22,15
+Avoca Vale,Jun-22,42
+Avoca Vale,Jul-22,91
+Avoca Vale,Aug-22,0
+Avoca Vale,Sep-22,59
+Avoca Vale,Oct-22,27
+Avoca Vale,Nov-22,37
+Avoca Vale,Dec-22,71
+Avoca Vale,Jan-23,16
+Avoca Vale,Feb-23,60
+Avoca Vale,Mar-23,52
+Avoca Vale,Apr-23,73
+Avoca Vale,May-23,6
+Avoca Vale,Jun-23,50
+Avoca Vale,Jul-23,9
+Atkinsons Dam,Jul-21,31
+Atkinsons Dam,Aug-21,87
+Atkinsons Dam,Sep-21,70
+Atkinsons Dam,Oct-21,48
+Atkinsons Dam,Nov-21,3
+Atkinsons Dam,Dec-21,44
+Atkinsons Dam,Jan-22,49
+Atkinsons Dam,Feb-22,25
+Atkinsons Dam,Mar-22,26
+Atkinsons Dam,Apr-22,12
+Atkinsons Dam,May-22,51
+Atkinsons Dam,Jun-22,64
+Atkinsons Dam,Jul-22,64
+Atkinsons Dam,Aug-22,17
+Atkinsons Dam,Sep-22,15
+Atkinsons Dam,Oct-22,99
+Atkinsons Dam,Nov-22,7
+Atkinsons Dam,Dec-22,57
+Atkinsons Dam,Jan-23,46
+Atkinsons Dam,Feb-23,14
+Atkinsons Dam,Mar-23,84
+Atkinsons Dam,Apr-23,93
+Atkinsons Dam,May-23,73
+Atkinsons Dam,Jun-23,66
+Atkinsons Dam,Jul-23,19
+Clarendon,Jul-21,40
+Clarendon,Aug-21,92
+Clarendon,Sep-21,14
+Clarendon,Oct-21,56
+Clarendon,Nov-21,54
+Clarendon,Dec-21,61
+Clarendon,Jan-22,19
+Clarendon,Feb-22,94
+Clarendon,Mar-22,27
+Clarendon,Apr-22,75
+Clarendon,May-22,97
+Clarendon,Jun-22,21
+Clarendon,Jul-22,67
+Clarendon,Aug-22,9
+Clarendon,Sep-22,32
+Clarendon,Oct-22,18
+Clarendon,Nov-22,4
+Clarendon,Dec-22,85
+Clarendon,Jan-23,64
+Clarendon,Feb-23,80
+Clarendon,Mar-23,26
+Clarendon,Apr-23,31
+Clarendon,May-23,63
+Clarendon,Jun-23,43
+Clarendon,Jul-23,96
+Scrub Creek,Jul-21,42
+Scrub Creek,Aug-21,91
+Scrub Creek,Sep-21,19
+Scrub Creek,Oct-21,63
+Scrub Creek,Nov-21,51
+Scrub Creek,Dec-21,35
+Scrub Creek,Jan-22,0
+Scrub Creek,Feb-22,17
+Scrub Creek,Mar-22,79
+Scrub Creek,Apr-22,54
+Scrub Creek,May-22,85
+Scrub Creek,Jun-22,20
+Scrub Creek,Jul-22,33
+Scrub Creek,Aug-22,76
+Scrub Creek,Sep-22,45
+Scrub Creek,Oct-22,20
+Scrub Creek,Nov-22,48
+Scrub Creek,Dec-22,12
+Scrub Creek,Jan-23,26
+Scrub Creek,Feb-23,50
+Scrub Creek,Mar-23,1
+Scrub Creek,Apr-23,61
+Scrub Creek,May-23,55
+Scrub Creek,Jun-23,18
+Scrub Creek,Jul-23,12
+Woolmar,Jul-21,57
+Woolmar,Aug-21,67
+Woolmar,Sep-21,96
+Woolmar,Oct-21,2
+Woolmar,Nov-21,98
+Woolmar,Dec-21,15
+Woolmar,Jan-22,50
+Woolmar,Feb-22,97
+Woolmar,Mar-22,92
+Woolmar,Apr-22,80
+Woolmar,May-22,16
+Woolmar,Jun-22,59
+Woolmar,Jul-22,20
+Woolmar,Aug-22,82
+Woolmar,Sep-22,5
+Woolmar,Oct-22,70
+Woolmar,Nov-22,28
+Woolmar,Dec-22,21
+Woolmar,Jan-23,97
+Woolmar,Feb-23,67
+Woolmar,Mar-23,95
+Woolmar,Apr-23,1
+Woolmar,May-23,23
+Woolmar,Jun-23,90
+Woolmar,Jul-23,62
+Lower Cressbrook,Jul-21,58
+Lower Cressbrook,Aug-21,50
+Lower Cressbrook,Sep-21,51
+Lower Cressbrook,Oct-21,4
+Lower Cressbrook,Nov-21,89
+Lower Cressbrook,Dec-21,72
+Lower Cressbrook,Jan-22,10
+Lower Cressbrook,Feb-22,81
+Lower Cressbrook,Mar-22,85
+Lower Cressbrook,Apr-22,46
+Lower Cressbrook,May-22,83
+Lower Cressbrook,Jun-22,23
+Lower Cressbrook,Jul-22,17
+Lower Cressbrook,Aug-22,12
+Lower Cressbrook,Sep-22,64
+Lower Cressbrook,Oct-22,57
+Lower Cressbrook,Nov-22,43
+Lower Cressbrook,Dec-22,57
+Lower Cressbrook,Jan-23,23
+Lower Cressbrook,Feb-23,39
+Lower Cressbrook,Mar-23,26
+Lower Cressbrook,Apr-23,34
+Lower Cressbrook,May-23,12
+Lower Cressbrook,Jun-23,70
+Lower Cressbrook,Jul-23,74
+Linville,Jul-21,11
+Linville,Aug-21,31
+Linville,Sep-21,69
+Linville,Oct-21,55
+Linville,Nov-21,47
+Linville,Dec-21,33
+Linville,Jan-22,31
+Linville,Feb-22,82
+Linville,Mar-22,64
+Linville,Apr-22,46
+Linville,May-22,66
+Linville,Jun-22,63
+Linville,Jul-22,15
+Linville,Aug-22,57
+Linville,Sep-22,85
+Linville,Oct-22,70
+Linville,Nov-22,67
+Linville,Dec-22,12
+Linville,Jan-23,89
+Linville,Feb-23,89
+Linville,Mar-23,8
+Linville,Apr-23,88
+Linville,May-23,63
+Linville,Jun-23,6
+Linville,Jul-23,79
+Kobble Creek,Jul-21,36
+Kobble Creek,Aug-21,44
+Kobble Creek,Sep-21,75
+Kobble Creek,Oct-21,91
+Kobble Creek,Nov-21,10
+Kobble Creek,Dec-21,86
+Kobble Creek,Jan-22,92
+Kobble Creek,Feb-22,83
+Kobble Creek,Mar-22,26
+Kobble Creek,Apr-22,35
+Kobble Creek,May-22,56
+Kobble Creek,Jun-22,100
+Kobble Creek,Jul-22,46
+Kobble Creek,Aug-22,83
+Kobble Creek,Sep-22,40
+Kobble Creek,Oct-22,42
+Kobble Creek,Nov-22,55
+Kobble Creek,Dec-22,57
+Kobble Creek,Jan-23,82
+Kobble Creek,Feb-23,46
+Kobble Creek,Mar-23,10
+Kobble Creek,Apr-23,74
+Kobble Creek,May-23,69
+Kobble Creek,Jun-23,32
+Kobble Creek,Jul-23,35
+Mount Hallen,Jul-21,17
+Mount Hallen,Aug-21,58
+Mount Hallen,Sep-21,36
+Mount Hallen,Oct-21,44
+Mount Hallen,Nov-21,84
+Mount Hallen,Dec-21,33
+Mount Hallen,Jan-22,74
+Mount Hallen,Feb-22,64
+Mount Hallen,Mar-22,99
+Mount Hallen,Apr-22,14
+Mount Hallen,May-22,78
+Mount Hallen,Jun-22,19
+Mount Hallen,Jul-22,89
+Mount Hallen,Aug-22,47
+Mount Hallen,Sep-22,23
+Mount Hallen,Oct-22,71
+Mount Hallen,Nov-22,3
+Mount Hallen,Dec-22,22
+Mount Hallen,Jan-23,54
+Mount Hallen,Feb-23,4
+Mount Hallen,Mar-23,32
+Mount Hallen,Apr-23,0
+Mount Hallen,May-23,70
+Mount Hallen,Jun-23,42
+Mount Hallen,Jul-23,40
+East Nanango,Jul-21,15
+East Nanango,Aug-21,70
+East Nanango,Sep-21,73
+East Nanango,Oct-21,76
+East Nanango,Nov-21,63
+East Nanango,Dec-21,23
+East Nanango,Jan-22,79
+East Nanango,Feb-22,85
+East Nanango,Mar-22,5
+East Nanango,Apr-22,19
+East Nanango,May-22,2
+East Nanango,Jun-22,42
+East Nanango,Jul-22,54
+East Nanango,Aug-22,0
+East Nanango,Sep-22,5
+East Nanango,Oct-22,24
+East Nanango,Nov-22,90
+East Nanango,Dec-22,93
+East Nanango,Jan-23,32
+East Nanango,Feb-23,82
+East Nanango,Mar-23,55
+East Nanango,Apr-23,58
+East Nanango,May-23,35
+East Nanango,Jun-23,98
+East Nanango,Jul-23,40
+Kingaham,Jul-21,8
+Kingaham,Aug-21,73
+Kingaham,Sep-21,63
+Kingaham,Oct-21,2
+Kingaham,Nov-21,53
+Kingaham,Dec-21,47
+Kingaham,Jan-22,88
+Kingaham,Feb-22,6
+Kingaham,Mar-22,36
+Kingaham,Apr-22,36
+Kingaham,May-22,76
+Kingaham,Jun-22,59
+Kingaham,Jul-22,52
+Kingaham,Aug-22,31
+Kingaham,Sep-22,62
+Kingaham,Oct-22,17
+Kingaham,Nov-22,7
+Kingaham,Dec-22,16
+Kingaham,Jan-23,42
+Kingaham,Feb-23,45
+Kingaham,Mar-23,39
+Kingaham,Apr-23,42
+Kingaham,May-23,49
+Kingaham,Jun-23,99
+Kingaham,Jul-23,4
+Ironbark,Jul-21,47
+Ironbark,Aug-21,35
+Ironbark,Sep-21,44
+Ironbark,Oct-21,86
+Ironbark,Nov-21,52
+Ironbark,Dec-21,59
+Ironbark,Jan-22,67
+Ironbark,Feb-22,80
+Ironbark,Mar-22,11
+Ironbark,Apr-22,27
+Ironbark,May-22,81
+Ironbark,Jun-22,37
+Ironbark,Jul-22,30
+Ironbark,Aug-22,46
+Ironbark,Sep-22,69
+Ironbark,Oct-22,90
+Ironbark,Nov-22,85
+Ironbark,Dec-22,61
+Ironbark,Jan-23,0
+Ironbark,Feb-23,77
+Ironbark,Mar-23,77
+Ironbark,Apr-23,11
+Ironbark,May-23,69
+Ironbark,Jun-23,15
+Ironbark,Jul-23,82
+Mount Archer,Jul-21,43
+Mount Archer,Aug-21,55
+Mount Archer,Sep-21,53
+Mount Archer,Oct-21,4
+Mount Archer,Nov-21,9
+Mount Archer,Dec-21,68
+Mount Archer,Jan-22,50
+Mount Archer,Feb-22,34
+Mount Archer,Mar-22,89
+Mount Archer,Apr-22,47
+Mount Archer,May-22,64
+Mount Archer,Jun-22,67
+Mount Archer,Jul-22,97
+Mount Archer,Aug-22,88
+Mount Archer,Sep-22,99
+Mount Archer,Oct-22,55
+Mount Archer,Nov-22,30
+Mount Archer,Dec-22,35
+Mount Archer,Jan-23,89
+Mount Archer,Feb-23,35
+Mount Archer,Mar-23,63
+Mount Archer,Apr-23,23
+Mount Archer,May-23,44
+Mount Archer,Jun-23,80
+Mount Archer,Jul-23,21
+Dundas,Jul-21,85
+Dundas,Aug-21,53
+Dundas,Sep-21,90
+Dundas,Oct-21,30
+Dundas,Nov-21,83
+Dundas,Dec-21,37
+Dundas,Jan-22,91
+Dundas,Feb-22,41
+Dundas,Mar-22,9
+Dundas,Apr-22,65
+Dundas,May-22,100
+Dundas,Jun-22,25
+Dundas,Jul-22,8
+Dundas,Aug-22,8
+Dundas,Sep-22,20
+Dundas,Oct-22,85
+Dundas,Nov-22,95
+Dundas,Dec-22,54
+Dundas,Jan-23,0
+Dundas,Feb-23,44
+Dundas,Mar-23,62
+Dundas,Apr-23,64
+Dundas,May-23,42
+Dundas,Jun-23,12
+Dundas,Jul-23,33
+Haigslea,Jul-21,22
+Haigslea,Aug-21,68
+Haigslea,Sep-21,40
+Haigslea,Oct-21,55
+Haigslea,Nov-21,25
+Haigslea,Dec-21,78
+Haigslea,Jan-22,28
+Haigslea,Feb-22,78
+Haigslea,Mar-22,3
+Haigslea,Apr-22,94
+Haigslea,May-22,40
+Haigslea,Jun-22,79
+Haigslea,Jul-22,61
+Haigslea,Aug-22,90
+Haigslea,Sep-22,72
+Haigslea,Oct-22,37
+Haigslea,Nov-22,36
+Haigslea,Dec-22,46
+Haigslea,Jan-23,50
+Haigslea,Feb-23,70
+Haigslea,Mar-23,77
+Haigslea,Apr-23,40
+Haigslea,May-23,12
+Haigslea,Jun-23,71
+Haigslea,Jul-23,2
+Runnymede,Jul-21,83
+Runnymede,Aug-21,37
+Runnymede,Sep-21,52
+Runnymede,Oct-21,70
+Runnymede,Nov-21,55
+Runnymede,Dec-21,39
+Runnymede,Jan-22,97
+Runnymede,Feb-22,74
+Runnymede,Mar-22,40
+Runnymede,Apr-22,77
+Runnymede,May-22,21
+Runnymede,Jun-22,32
+Runnymede,Jul-22,31
+Runnymede,Aug-22,97
+Runnymede,Sep-22,39
+Runnymede,Oct-22,67
+Runnymede,Nov-22,78
+Runnymede,Dec-22,6
+Runnymede,Jan-23,2
+Runnymede,Feb-23,82
+Runnymede,Mar-23,61
+Runnymede,Apr-23,84
+Runnymede,May-23,70
+Runnymede,Jun-23,76
+Runnymede,Jul-23,55
+Fernvale,Jul-21,18
+Fernvale,Aug-21,65
+Fernvale,Sep-21,55
+Fernvale,Oct-21,21
+Fernvale,Nov-21,36
+Fernvale,Dec-21,93
+Fernvale,Jan-22,68
+Fernvale,Feb-22,74
+Fernvale,Mar-22,14
+Fernvale,Apr-22,55
+Fernvale,May-22,45
+Fernvale,Jun-22,41
+Fernvale,Jul-22,9
+Fernvale,Aug-22,42
+Fernvale,Sep-22,46
+Fernvale,Oct-22,23
+Fernvale,Nov-22,47
+Fernvale,Dec-22,87
+Fernvale,Jan-23,84
+Fernvale,Feb-23,85
+Fernvale,Mar-23,75
+Fernvale,Apr-23,28
+Fernvale,May-23,23
+Fernvale,Jun-23,69
+Fernvale,Jul-23,79
+Buaraba South,Jul-21,42
+Buaraba South,Aug-21,84
+Buaraba South,Sep-21,5
+Buaraba South,Oct-21,40
+Buaraba South,Nov-21,19
+Buaraba South,Dec-21,69
+Buaraba South,Jan-22,93
+Buaraba South,Feb-22,54
+Buaraba South,Mar-22,54
+Buaraba South,Apr-22,65
+Buaraba South,May-22,37
+Buaraba South,Jun-22,93
+Buaraba South,Jul-22,25
+Buaraba South,Aug-22,24
+Buaraba South,Sep-22,21
+Buaraba South,Oct-22,82
+Buaraba South,Nov-22,19
+Buaraba South,Dec-22,69
+Buaraba South,Jan-23,64
+Buaraba South,Feb-23,50
+Buaraba South,Mar-23,28
+Buaraba South,Apr-23,77
+Buaraba South,May-23,76
+Buaraba South,Jun-23,86
+Buaraba South,Jul-23,60
+Taromeo,Jul-21,7
+Taromeo,Aug-21,68
+Taromeo,Sep-21,37
+Taromeo,Oct-21,5
+Taromeo,Nov-21,47
+Taromeo,Dec-21,68
+Taromeo,Jan-22,84
+Taromeo,Feb-22,43
+Taromeo,Mar-22,66
+Taromeo,Apr-22,89
+Taromeo,May-22,44
+Taromeo,Jun-22,94
+Taromeo,Jul-22,2
+Taromeo,Aug-22,23
+Taromeo,Sep-22,80
+Taromeo,Oct-22,24
+Taromeo,Nov-22,20
+Taromeo,Dec-22,48
+Taromeo,Jan-23,42
+Taromeo,Feb-23,17
+Taromeo,Mar-23,2
+Taromeo,Apr-23,47
+Taromeo,May-23,60
+Taromeo,Jun-23,43
+Taromeo,Jul-23,100
+Biarra,Jul-21,75
+Biarra,Aug-21,24
+Biarra,Sep-21,26
+Biarra,Oct-21,49
+Biarra,Nov-21,73
+Biarra,Dec-21,38
+Biarra,Jan-22,93
+Biarra,Feb-22,5
+Biarra,Mar-22,61
+Biarra,Apr-22,12
+Biarra,May-22,16
+Biarra,Jun-22,55
+Biarra,Jul-22,26
+Biarra,Aug-22,76
+Biarra,Sep-22,8
+Biarra,Oct-22,75
+Biarra,Nov-22,98
+Biarra,Dec-22,37
+Biarra,Jan-23,47
+Biarra,Feb-23,60
+Biarra,Mar-23,44
+Biarra,Apr-23,56
+Biarra,May-23,77
+Biarra,Jun-23,55
+Biarra,Jul-23,47
