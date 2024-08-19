@@ -360,7 +360,7 @@ let cntr = ["152.42905811645483","-27.13675120820229"]
 
         // Update the KPI display (Assuming you have a div with id 'kpi')
         d3.select("#kpi")
-        .text(`Average Occupancy: ${avgOccupancy.toFixed(2)}%`);
+        .text(`Average Occupancy: ${avgOccupancy.toFixed(0)}%`);
 
         d3.select("#kpi2")
         .text(`Average Daily Rate: $${avgADR.toFixed(0)}`);
