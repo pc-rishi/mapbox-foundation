@@ -1,3 +1,4 @@
+
 //map box function
 let cntr = ["152.42905811645483","-27.13675120820229"] 
 
@@ -168,7 +169,7 @@ let cntr = ["152.42905811645483","-27.13675120820229"]
             labels: [],
             datasets: [
             {
-                label: 'Percentage',
+                label: 'Occupancy',
                 data: [],
                 backgroundColor: 'rgba(75, 192, 192, 0.2)',
                 borderColor: 'rgba(75, 192, 192, 1)',
@@ -181,14 +182,14 @@ let cntr = ["152.42905811645483","-27.13675120820229"]
         responsive: true,
         scales: {
             x: {
-            display: true,
+            display: false,
             title: {
                 display: true,
-                text: 'Percentage',
+                text: 'Occupancy',
             },
             },
             y: {
-            display: true,
+            display: false,
             title: {
                 display: true,
                 text: 'Month',
@@ -219,11 +220,11 @@ let cntr = ["152.42905811645483","-27.13675120820229"]
         function updateChart(data) {
         // Extract the months and values from the filtered data
         const months = data.map((row) => row.month);
-        const values = data.map((row) => row.value);
+        const occupancy_val = data.map((row) => row.occupancy);
 
         // Update the chart with the new data
         chart.data.labels = months;
-        chart.data.datasets[0].data = values;
+        chart.data.datasets[0].data = occupancy_val;
         chart.options.layout = {
             padding: {
             top: 10, // Adjust the value to move the chart lower
@@ -323,7 +324,7 @@ let cntr = ["152.42905811645483","-27.13675120820229"]
         const parsedData = Papa.parse(csvData, { header: true }).data;
         return parsedData.map((row) => ({
         month: row['month'],
-        value: parseFloat(row['value']),
+        occupancy: parseFloat(row['occupancy']),
         // merch:row['Merchant Category Code'],
         Suburb_Name:row['Suburb_Name']
         }));
