@@ -164,7 +164,7 @@ let cntr = ["152.42905811645483","-27.13675120820229"]
         // Initialize and configure the chart
         const ctx = document.getElementById('chart').getContext('2d');
         const chart = new Chart(ctx, {
-        type: 'radar',
+        type: 'line',
         data: {
             labels: [],
             datasets: [
@@ -178,7 +178,7 @@ let cntr = ["152.42905811645483","-27.13675120820229"]
             ],
         },
         options: {
-        indexAxis: 'y',
+        indexAxis: 'x',
         responsive: true,
         scales: {
             x: {
@@ -216,11 +216,79 @@ let cntr = ["152.42905811645483","-27.13675120820229"]
 
         });
 
+        // This is ADR chart configuration
+        // Initialize and configure the chart
+        const adr_ctx = document.getElementById('adr-chart').getContext('2d');
+        const adr_chart = new Chart(adr_ctx, {
+        type: 'line',
+        data: {
+            labels: [],
+            datasets: [
+            {
+                label: 'ADR',
+                data: [],
+                backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                borderColor: 'rgba(75, 192, 192, 1)',
+                borderWidth: 1,
+            },
+            ],
+        },
+        options: {
+        indexAxis: 'x',
+        responsive: true,
+        scales: {
+            x: {
+            display: false,
+            title: {
+                display: true,
+                text: 'ADR',
+            },
+            },
+            y: {
+            display: false,
+            title: {
+                display: true,
+                text: 'Month',
+            },
+            grid: {
+                display: false,
+            },
+            },
+        },
+        plugins: {
+            legend:{
+            display:false
+            },
+            datalabels: {
+            anchor: 'end',
+            align: 'end',
+            display: 'auto',
+            font: {
+                weight: 'bold',
+            },
+            },
+        },
+        },
+
+        });
+  
 
         function updateChart(data) {
         // Extract the months and values from the filtered data
         const months = data.map((row) => row.month);
         const occupancy_val = data.map((row) => row.occupancy);
+        const adr_val = data.map((row) => row.adr);
+
+        const avgOccupancy = d3.mean(occupancy_val);
+
+        const avgADR = d3.mean(adr_val);
+
+        // Calculate the average of occupancy_val
+        const totalOccupancy = occupancy_val.reduce((sum, value) => sum + value, 0);
+        const averageOccupancy = (occupancy_val.length > 0) ? totalOccupancy / occupancy_val.length : 0;
+
+        // Log the average occupancy
+        console.log('Average Occupancy:', averageOccupancy.toFixed(2));
 
         // Update the chart with the new data
         chart.data.labels = months;
@@ -234,10 +302,24 @@ let cntr = ["152.42905811645483","-27.13675120820229"]
             }
         };
 
+        // Update the ADR chart with the new data
+        adr_chart.data.labels = months;
+        adr_chart.data.datasets[0].data = adr_val;
+        adr_chart.options.layout = {
+            padding: {
+            top: 10, // Adjust the value to move the chart lower
+            right: 0,
+            bottom: 0,
+            left: 0
+            }
+        };
+
+      
         const selectedSa3 = data[0].Suburb_Name; // Get the selected sa3 value from the first data point
+        // Occupancy chart option update
         chart.options.plugins.title = {
             display: true,
-            text: selectedSa3, // Set the selected sa3 value as the chart title
+            text: [" "," ","Occupancy"], // Set the selected sa3 value as the chart title
             position: 'top',
             font: {
             size: 15 // Adjust the value to increase or decrease the font size
@@ -253,6 +335,38 @@ let cntr = ["152.42905811645483","-27.13675120820229"]
         chart.options.plugins.legend.display = false;
 
         chart.update();
+        //
+
+        //// ADR chart option update
+
+        adr_chart.options.plugins.title = {
+            display: true,
+            text: [" "," ","Average Daily Rate"], // Set the selected sa3 value as the chart title
+            position: 'top',
+            font: {
+            size: 15 // Adjust the value to increase or decrease the font size
+            },
+            color: '#333',
+            padding: {
+            top: 0,
+            bottom: 10
+            }
+        };
+
+        // Hide the legend
+        adr_chart.options.plugins.legend.display = false;
+
+        adr_chart.update();
+
+        // Update the KPI display (Assuming you have a div with id 'kpi')
+        d3.select("#kpi")
+        .text(`Average Occupancy: ${avgOccupancy.toFixed(2)}%`);
+
+        d3.select("#kpi2")
+        .text(`Average Daily Rate: $${avgADR.toFixed(0)}`);
+
+        document.getElementById('banner-title').textContent = selectedSa3;
+
         }
 
         // Fetch the CSV data
@@ -316,6 +430,10 @@ let cntr = ["152.42905811645483","-27.13675120820229"]
         })
 
 
+      
+          
+
+
 
 
 
@@ -325,10 +443,12 @@ let cntr = ["152.42905811645483","-27.13675120820229"]
         return parsedData.map((row) => ({
         month: row['month'],
         occupancy: parseFloat(row['occupancy']),
-        // merch:row['Merchant Category Code'],
+        adr: parseFloat(row['adr']),
         Suburb_Name:row['Suburb_Name']
         }));
         }
+
+        
 
 
 

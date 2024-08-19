@@ -12,6 +12,9 @@
     <script src="https://cdn.jsdelivr.net/npm/@mapbox/mapbox-gl-geocoder@5.0.2/dist/mapbox-gl-geocoder.min.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mapbox/mapbox-gl-geocoder@5.0.2/lib/mapbox-gl-geocoder.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js" integrity="sha512-vc58qvvBdrDR4etbxMdlTt4GBQk1qjvyORR2nrsPsFPyrs+/u5c3+1Ct6upOgdZoIl7eq6k3a1UPDSNAQi/32A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <!-- d3 -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+
     <!-- papaparse -->
     <script src="https://cdn.jsdelivr.net/npm/papaparse"></script>
     <link rel="stylesheet" href="./css/main.css">  
@@ -23,7 +26,18 @@
         <h1 class="title">Map Rish</h1>
         <div id="map"></div>
         <div id="right-banner">
+            <h1>
+            <span id="banner-title">Suburb</span>
+            </h1>
+            <div id="kpi-container">
+                <div id="kpi"></div>
+                <div id="kpi2"></div>
+            </div>
+
             <canvas id="chart"></canvas>
+            <canvas id="adr-chart"></canvas>
+            
+            
         </div>
 
         <pre id="info"></pre>

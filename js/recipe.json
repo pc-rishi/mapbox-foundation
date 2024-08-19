@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "layers": {
+    "my-layer": {
+      "source": "mapbox://tileset-source/rishi13/kryptonite",
+      "minzoom": 0,
+      "maxzoom": 14
+    }
+  }
+}
