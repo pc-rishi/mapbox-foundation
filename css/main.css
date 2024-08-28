@@ -13,10 +13,9 @@ body {
     top: 0;
     bottom: 0;
     left: 0;
-    width: 75%; /* Adjust the width as needed */
+    width: 72%; /* Adjust the width as needed */
     height: 100vh;
 }
-
 
 #banner-title {
     color: #007bff;
@@ -28,16 +27,18 @@ body {
     position: absolute;
     top: 0;
     right: 0;
-    width: 25%; /* Adjust the width as needed */
-    height: 100vh;
+    width: 28%; /* Adjust the width as needed */
+    height: 100vh; /* Ensure the banner fills the entire height */
     background-color: #ffffff; /* Optional: background color */
-    box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1); /* Optional: shadow for depth */
     padding: 20px;
+    overflow-y: auto; /* Enables scrolling for the charts */
 }
 
 #right-banner canvas {
-    width: 100%;
-    height: 100%;
+    width: auto;
+    height: auto; /* Ensure it scales correctly */
+    max-height: 100%; /* Prevents it from exceeding container bounds */
+    margin-bottom: 20px; /* Space between charts */
 }
 
 #kpi-container {
@@ -59,24 +60,22 @@ body {
 #kpi2 {
     color: #28a745;
 }
+
 #menu {
     position: absolute;
     top: 0px; /* Adjust the top value as needed */
     left: 20px; /* Adjust the left value as needed */
-    font-size: 1rem; /* Increase the font size for a more premium look */
+    font-size: 1rem;
     text-transform: capitalize;
-    background-color: #ffffff; /* White background for a clean look */
-    padding: 10px 20px; /* Add some padding for spacing */
-    border-radius: 8px; /* Rounded corners for a modern look */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; /* Use a premium font */
-    color: #333; /* Dark text color for contrast */
-    border: 1px solid #ddd; /* Light border for a subtle outline */
+    background-color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #333;
+    border: 1px solid #ddd;
 }
 
-
-
-/* Add these styles to your CSS file or inside a <style> tag in your HTML */
 .premium-popup {
     background: white;
     border-radius: 10px;
@@ -119,4 +118,20 @@ body {
     margin-left: 20px;
 }
 
+#toggle-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 1000;
+    background-color: #007bff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
 
+#toggle-button:hover {
+    background-color: #0056b3;
+}
