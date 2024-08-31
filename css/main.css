@@ -13,68 +13,172 @@ body {
     top: 0;
     bottom: 0;
     left: 0;
-    width: 72%; /* Adjust the width as needed */
+    width: 40%; /* Adjust the width as needed */
     height: 100vh;
 }
 
-#banner-title {
+#Section-title {
+    top: 0;
+    right: 0;
+    width: 60%; /* Match the width of the right-banner */
+    /* background-color: #ffffff; */
+    z-index: 100; /* Ensure it stays on top */
+    /* padding: 10px 10px; */
     color: #007bff;
-    font-size: 28px;
+    font-size: 24px;
     font-weight: bold;
+    /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); Optional: shadow for depth */
+}
+#Section-title2 {
+    top: 0;
+    right: 0;
+    width: 60%; /* Match the width of the right-banner */
+    /* background-color: #ffffff; */
+    z-index: 100; /* Ensure it stays on top */
+    /* padding: 10px 10px; */
+    color: #007bff;
+    font-size: 24px;
+    font-weight: bold;
+    /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); Optional: shadow for depth */
 }
 
 #right-banner {
     position: absolute;
     top: 0;
     right: 0;
-    width: 28%; /* Adjust the width as needed */
+    width: 60%; /* Adjust the width as needed */
     height: 100vh; /* Ensure the banner fills the entire height */
     background-color: #ffffff; /* Optional: background color */
-    padding: 20px;
+    padding: 60px 20px 20px 20px; /* Add padding at the top to accommodate the fixed title */
     overflow-y: auto; /* Enables scrolling for the charts */
+    margin-top: -40px;
+    margin-bottom: 40px;
 }
 
 #right-banner canvas {
     width: auto;
     height: auto; /* Ensure it scales correctly */
-    max-height: 100%; /* Prevents it from exceeding container bounds */
-    margin-bottom: 20px; /* Space between charts */
+    /* max-height: 100%; Prevents it from exceeding container bounds */
+    /* margin-bottom: 20px; Space between charts */
+}
+
+.chart-row, .chart-row2, .chart-row3 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px; /* Space between rows */
+}
+
+.chart-container {
+    flex: 1;               /* Ensure both charts take equal space */
+    border: 1px solid #ccc;  /* Light grey border */
+    padding: 8px;           /* Padding inside the border */
+    margin-bottom: 10px;     /* Space between charts */
+    margin-top: 0px;     /* Space between charts */
+    border-radius: 8px;      /* Rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    background-color: #fff;  /* White background to make it pop */
+    margin-right: 10px;      /* Space between side-by-side charts */
+    
+    
+}
+
+.chart-container:last-child {
+    margin-right: 0; /* Remove margin for the last chart in the row */
+}
+
+/* Ensure the canvas takes full width of its container */
+.chart-container canvas {
+    width: 100%;
+    height: auto;
 }
 
 #kpi-container {
-    background-color: #f4f4f4;
+    /* background-color: #f4f4f4; */
     border-radius: 10px;
-    padding: 20px;
+    padding: 38px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
     margin-top: 20px;
     text-align: center;
 }
 
-#kpi, #kpi2 {
-    font-size: 18px;
+#kpi-container2 {
+    /* background-color: #f4f4f4; */
+    flex: 1;
+    border-radius: 10px;
+    padding: 38px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    margin-top: 20px;
+    text-align: center;
+}
+
+#kpi, #kpi2, #kpi3, #kpi4, #kpi5, #kpi6, #kpi7,#kpi8 {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
-    color: #007bff;
+    color: #333;
     margin-bottom: 10px;
 }
 
-#kpi2 {
-    color: #28a745;
+.kpi-value {
+    font-size: 30px; /* Larger font size for the values */
+    font-weight:bold; /* Bold weight for the values */
+    margin-top: 17px; /* Increase the margin to add more space between title and value */
+    display: block; /* Ensure the margin applies correctly */
+    line-height: 1.2; /* Adjust line height for better spacing */
+}
+
+.kpi-value span {
+    display: block; /* Ensure the values are displayed on a new line */
+}
+.kpi-row, .kpi-row2 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px; /* Space between rows */
+    margin-left: 2px;
+    
+}
+.kpi-row2 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px; /* Space between rows */
+    margin-left: 2px;
+    gap: 10px;
 }
 
 #menu {
     position: absolute;
-    top: 0px; /* Adjust the top value as needed */
-    left: 20px; /* Adjust the left value as needed */
-    font-size: 1rem;
+    top: 10px; /* Adjust the top value as needed */
+    left: 10px; /* Adjust the left value as needed */
+    font-size: 0.8rem;
     text-transform: capitalize;
     background-color: #ffffff;
-    padding: 10px 20px;
+    padding: 4px 1em 0 1em;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     color: #333;
     border: 1px solid #ddd;
 }
+
+.mapboxgl-popup {
+    padding: 0 !important;
+    background: none !important;
+    box-shadow: none !important;
+    border: none !important;
+}
+
+.mapboxgl-popup-content {
+    background: none !important;
+    padding: 0 !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    border: none !important;
+}
+
+.mapboxgl-popup-tip {
+    display: none !important; /* Hide the default popup tip */
+}
+
 
 .premium-popup {
     background: white;

@@ -13,6 +13,7 @@ function initializeChart() {
                     backgroundColor: 'rgba(75, 192, 192, 0.2)',
                     borderColor: 'rgba(102, 153, 255, 1)',
                     borderWidth: 1,
+                    cubicInterpolationMode: 'monotone',
                 },
             ],
         },
@@ -20,7 +21,11 @@ function initializeChart() {
             indexAxis: 'x',
             responsive: true,
             scales: {
-                x: { display: false, title: { display: true, text: 'Occupancy' } },
+                x: { 
+                    display: true,  
+                    grid: { display: false }, 
+                    title: { display: false },
+                 },
                 y: { display: false, title: { display: true, text: 'Month' }, grid: { display: false } },
             },
             plugins: {
@@ -42,6 +47,7 @@ function initializeChart() {
                     backgroundColor: 'rgba(75, 192, 192, 0.2)',
                     borderColor: 'rgba(153, 102, 255, 1)',
                     borderWidth: 1,
+                    cubicInterpolationMode: 'monotone',
                 },
             ],
         },
@@ -49,7 +55,11 @@ function initializeChart() {
             indexAxis: 'x',
             responsive: true,
             scales: {
-                x: { display: false, title: { display: true, text: 'ADR' } },
+                x: { 
+                    display: true,  
+                    grid: { display: false }, 
+                    title: { display: false },
+                 },
                 y: { display: false, title: { display: true, text: 'Month' }, grid: { display: false } },
             },
             plugins: {
@@ -71,6 +81,7 @@ function initializeChart() {
                     backgroundColor: 'rgba(153, 102, 255, 0.2)',
                     borderColor: 'rgba(75, 192, 192, 1)',
                     borderWidth: 1,
+                    cubicInterpolationMode: 'monotone',
                 },
             ],
         },
@@ -78,7 +89,11 @@ function initializeChart() {
             indexAxis: 'x',
             responsive: true,
             scales: {
-                x: { display: false, title: { display: true, text: 'RW' } },
+                x: { 
+                    display: true,  
+                    grid: { display: false }, 
+                    title: { display: false },
+                 },
                 y: { display: false, title: { display: true, text: 'Month' }, grid: { display: false } },
             },
             plugins: {
@@ -100,6 +115,7 @@ function initializeChart() {
                     backgroundColor: 'rgba(153, 102, 255, 0.2)',
                     borderColor: 'rgba(255, 153, 153, 1)',
                     borderWidth: 1,
+                    cubicInterpolationMode: 'monotone',
                 },
             ],
         },
@@ -107,7 +123,11 @@ function initializeChart() {
             indexAxis: 'x',
             responsive: true,
             scales: {
-                x: { display: false, title: { display: true, text: 'LoS' } },
+                x: { 
+                    display: true,  
+                    grid: { display: false }, 
+                    title: { display: false },
+                 },
                 y: { display: false, title: { display: true, text: 'Month' }, grid: { display: false } },
             },
             plugins: {
@@ -122,20 +142,20 @@ function initializeChart() {
     const chart5 = new Chart(ctx5, {
         type: 'doughnut',
         data: {
-            labels: [],
+            labels: [], // Your labels
             datasets: [
                 {
                     label: 'Listings by Property',
-                    data: [],
+                    data: [], // Your data
                     backgroundColor: ctx => {
                         const defaultColors = [
-                            'rgba(255, 99, 132, 0.6)', // Red with 60% opacity
-                            'rgba(54, 162, 235, 0.6)', // Blue with 60% opacity
-                            'rgba(255, 206, 86, 0.6)', // Yellow with 60% opacity
-                            'rgba(75, 192, 192, 0.6)', // Teal with 60% opacity
-                            'rgba(153, 102, 255, 0.6)', // Purple with 60% opacity
-                            'rgba(255, 159, 64, 0.6)'   // Orange with 60% opacity
-                        ]; 
+                            'rgba(255, 99, 132, 0.6)',  // Red
+                            'rgba(54, 162, 235, 0.6)',  // Blue
+                            'rgba(255, 206, 86, 0.6)',  // Yellow
+                            'rgba(75, 192, 192, 0.6)',  // Teal
+                            'rgba(153, 102, 255, 0.6)', // Purple
+                            'rgba(255, 159, 64, 0.6)'   // Orange
+                        ];
                         return defaultColors[ctx.dataIndex % defaultColors.length];
                     },
                     borderColor: 'rgba(255, 153, 153, 0.2)',
@@ -144,14 +164,33 @@ function initializeChart() {
             ],
         },
         options: {
-            indexAxis: 'x',
             responsive: true,
-            
+            cutout: '80%',
             plugins: {
-                legend: { display: false },
-                datalabels: { anchor: 'end', align: 'end', display: 'auto', font: { weight: 'bold' } },
-            },
-        },
+                legend: {
+                    display: true,
+                    position: 'right', // Position legend to the right of the chart
+                    labels: {
+                        boxWidth: 10,  // Smaller box size
+                        boxHeight: 10, // Ensure shape is circular
+                        padding: 15,   // Space between legend items
+                        usePointStyle: true, // Use circle shape for legend items
+                        font: {
+                            size: 12, // Adjust font size
+                            weight: 'bold'
+                        }
+                    }
+                },
+                datalabels: {
+                    anchor: 'end',
+                    align: 'end',
+                    display: 'auto',
+                    font: {
+                        weight: 'bold'
+                    }
+                }
+            }
+        }
     });
 
 
@@ -183,51 +222,77 @@ function initializeChart() {
         options: {
             indexAxis: 'x',
             responsive: true,
-            
+            cutout: '80%',
             plugins: {
-                legend: { display: false },
-                datalabels: { anchor: 'end', align: 'end', display: 'auto', font: { weight: 'bold' } },
-            },
-        },
-    });
-
-    const ctx7 = document.getElementById('chart7').getContext('2d');
-    const chart7 = new Chart(ctx7, {
-        type: 'doughnut',
-        data: {
-            labels: [],
-            datasets: [
-                {
-                    label: 'Listings by Reviews',
-                    data: [],
-                    backgroundColor: ctx => {
-                        const defaultColors = [
-                            'rgba(255, 99, 132, 0.6)', // Red with 60% opacity
-                            'rgba(54, 162, 235, 0.6)', // Blue with 60% opacity
-                            'rgba(255, 206, 86, 0.6)', // Yellow with 60% opacity
-                            'rgba(75, 192, 192, 0.6)', // Teal with 60% opacity
-                            'rgba(153, 102, 255, 0.6)', // Purple with 60% opacity
-                            'rgba(255, 159, 64, 0.6)'   // Orange with 60% opacity
-                        ]; 
-                        return defaultColors[ctx.dataIndex % defaultColors.length];
-                    },
-                    borderColor: 'rgba(255, 153, 153, 0.2)',
-                    borderWidth: 1,
+                legend: {
+                    display: true,
+                    position: 'right', // Position legend to the right of the chart
+                    labels: {
+                        boxWidth: 10,  // Smaller box size
+                        boxHeight: 10, // Ensure shape is circular
+                        padding: 15,   // Space between legend items
+                        usePointStyle: true, // Use circle shape for legend items
+                        font: {
+                            size: 12, // Adjust font size
+                            weight: 'bold'
+                        }
+                    }
                 },
-            ],
-        },
-        options: {
-            indexAxis: 'x',
-            responsive: true,
-            
-            plugins: {
-                legend: { display: false },
                 datalabels: { anchor: 'end', align: 'end', display: 'auto', font: { weight: 'bold' } },
             },
         },
     });
 
-    return { chart1, chart2, chart3, chart4, chart5, chart6, chart7}; // Return both chart instances to be used later
+    // const ctx7 = document.getElementById('chart7').getContext('2d');
+    // const chart7 = new Chart(ctx7, {
+    //     type: 'doughnut',
+    //     data: {
+    //         labels: [],
+    //         datasets: [
+    //             {
+    //                 label: 'Listings by Reviews',
+    //                 data: [],
+    //                 backgroundColor: ctx => {
+    //                     const defaultColors = [
+    //                         'rgba(255, 99, 132, 0.6)', // Red with 60% opacity
+    //                         'rgba(54, 162, 235, 0.6)', // Blue with 60% opacity
+    //                         'rgba(255, 206, 86, 0.6)', // Yellow with 60% opacity
+    //                         'rgba(75, 192, 192, 0.6)', // Teal with 60% opacity
+    //                         'rgba(153, 102, 255, 0.6)', // Purple with 60% opacity
+    //                         'rgba(255, 159, 64, 0.6)'   // Orange with 60% opacity
+    //                     ]; 
+    //                     return defaultColors[ctx.dataIndex % defaultColors.length];
+    //                 },
+    //                 borderColor: 'rgba(255, 153, 153, 0.2)',
+    //                 borderWidth: 1,
+    //             },
+    //         ],
+    //     },
+    //     options: {
+    //         indexAxis: 'x',
+    //         responsive: true,
+    //         cutout: '80%',
+    //         plugins: {
+    //             legend: {
+    //                 display: true,
+    //                 position: 'right', // Position legend to the right of the chart
+    //                 labels: {
+    //                     boxWidth: 10,  // Smaller box size
+    //                     boxHeight: 10, // Ensure shape is circular
+    //                     padding: 15,   // Space between legend items
+    //                     usePointStyle: true, // Use circle shape for legend items
+    //                     font: {
+    //                         size: 12, // Adjust font size
+    //                         weight: 'bold'
+    //                     }
+    //                 }
+    //             },
+    //             datalabels: { anchor: 'end', align: 'end', display: 'auto', font: { weight: 'bold' } },
+    //         },
+    //     },
+    // });
+
+    return { chart1, chart2, chart3, chart4, chart5, chart6}; // Return both chart instances to be used later
 }
 
 function updateChart(charts, data) {
@@ -238,14 +303,39 @@ function updateChart(charts, data) {
     const los_val = data.map(row => row.los);
     const avgOccupancy = d3.mean(occupancy_val);
     const avgADR = d3.mean(adr_val);
+    const avgRW = d3.mean(rw_val);
+    const avgLoS = d3.mean(los_val);
+
+
+
+    const monthOrder = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+
+
+    function sortLabelsAndData(labels, ...dataSets) {
+        const sortedIndices = labels
+            .map((label, index) => ({ label, index }))
+            .sort((a, b) => monthOrder.indexOf(a.label) - monthOrder.indexOf(b.label))
+            .map(({ index }) => index);
+    
+        const sortedLabels = sortedIndices.map(index => labels[index]);
+        const sortedDataSets = dataSets.map(dataSet =>
+            sortedIndices.map(index => dataSet[index])
+        );
+    
+        return [sortedLabels, ...sortedDataSets];
+    }
+
+    // Sort labels and their corresponding data together
+    const [sortedMonths, sortedOccupancy, sortedADR, sortedRW, sortedLoS] =
+        sortLabelsAndData(months, occupancy_val, adr_val, rw_val, los_val);
 
     
 
 
 
     // Update the first chart (Occupancy)
-    charts.chart1.data.labels = months;
-    charts.chart1.data.datasets[0].data = occupancy_val;
+    charts.chart1.data.labels = sortedMonths;
+    charts.chart1.data.datasets[0].data = sortedOccupancy;
 
     charts.chart1.options.layout = {
         padding: { top: 10, right: 0, bottom: 0, left: 0 }
@@ -263,8 +353,8 @@ function updateChart(charts, data) {
     charts.chart1.update();
 
     // Update the second chart (ADR)
-    charts.chart2.data.labels = months;
-    charts.chart2.data.datasets[0].data = adr_val;
+    charts.chart2.data.labels = sortedMonths;
+    charts.chart2.data.datasets[0].data = sortedADR;
 
     charts.chart2.options.layout = {
         padding: { top: 10, right: 0, bottom: 0, left: 0 }
@@ -282,8 +372,8 @@ function updateChart(charts, data) {
     charts.chart2.update();
 
     // Update the third chart (RW)
-    charts.chart3.data.labels = months;
-    charts.chart3.data.datasets[0].data = rw_val;
+    charts.chart3.data.labels = sortedMonths;
+    charts.chart3.data.datasets[0].data = sortedRW;
 
     charts.chart3.options.layout = {
         padding: { top: 10, right: 0, bottom: 0, left: 0 }
@@ -301,8 +391,8 @@ function updateChart(charts, data) {
     charts.chart3.update();
 
     // Update the fourth chart (LoS)
-    charts.chart4.data.labels = months;
-    charts.chart4.data.datasets[0].data = los_val;
+    charts.chart4.data.labels = sortedMonths;
+    charts.chart4.data.datasets[0].data = sortedLoS;
 
     charts.chart4.options.layout = {
         padding: { top: 10, right: 0, bottom: 0, left: 0 }
@@ -319,15 +409,45 @@ function updateChart(charts, data) {
 
     charts.chart4.update();
 
-    d3.select("#kpi").text(`Average Occupancy: ${avgOccupancy.toFixed(0)}%`);
-    d3.select("#kpi2").text(`Average Daily Rate: $${avgADR.toFixed(0)}`);
-    document.getElementById('banner-title').textContent = data[0].Suburb_Name;
+    d3.select("#kpi").html(`
+        <div class="kpi-title">Average Occupancy</div>
+        <div class="kpi-value">${avgOccupancy.toFixed(0)}%</div>
+    `);
+    d3.select("#kpi2").html(`
+        <div class="kpi-title">Average Daily Rate</div>
+        <div class="kpi-value">$${avgADR.toFixed(0)}</div>
+    `);
+    d3.select("#kpi3").html(`
+        <div class="kpi-title">Reservation Window</div>
+        <div class="kpi-value">${avgRW.toFixed(0)}</div>
+    `);
+    d3.select("#kpi4").html(`
+        <div class="kpi-title">Length of Stay</div>
+        <div class="kpi-value">${avgLoS.toFixed(2)}</div>
+    `);
+
+        
+    // document.getElementById('banner-title').textContent = data[0].Suburb_Name;
+
+    // Update the Market Overview title
+    document.getElementById('Section-title').textContent = `Market Overview: ${data[0].Suburb_Name}`;
 }
 
 function updateChart2(charts, data) {
     const columnNames = ['Alternative_Lodging', 'Hotels_Motels', 'Outdoor_Camping', 'Vacation_Rentals','Others']; // Replace with actual column names
     const labels = [];
     const listingValues = [];
+
+    const reviews = data.map(row => row.Reviews);
+    const avgRev = d3.sum(reviews);
+    const rating = data.map(row => row.Rating);
+    const avgRat = d3.mean(rating);
+    const rooms = data.map(row => row.Rooms);
+    const avgRoo = d3.sum(rooms);
+    const avgCap = avgRoo*2
+
+
+    
 
     // Iterate through the column names and extract data
     columnNames.forEach(column => {
@@ -447,40 +567,62 @@ function updateChart2(charts, data) {
 
 
 
-    // Update the chart with the new data
-    charts.chart7.data.labels = labels3;
-    charts.chart7.data.datasets[0].data = listingValues3;
+    // // Update the chart with the new data
+    // charts.chart7.data.labels = labels3;
+    // charts.chart7.data.datasets[0].data = listingValues3;
     
-    charts.chart7.options.layout = {
-        padding: {
-            top: 10, // Adjust the value to move the chart lower
-            right: 0,
-            bottom: 0,
-            left: 0
-        }
-    };
+    // charts.chart7.options.layout = {
+    //     padding: {
+    //         top: 10, // Adjust the value to move the chart lower
+    //         right: 0,
+    //         bottom: 0,
+    //         left: 0
+    //     }
+    // };
 
     
 
-    // Update chart title with selected SA3
-    charts.chart7.options.plugins.title = {
-        display: true,
-        text: ["Lisitings by Reviews"], // Set the selected SA3 value as the chart title
-        position: 'top',
-        font: {
-            size: 15 // Adjust the value to increase or decrease the font size
-        },
-        color: '#333',
-        padding: {
-            top: 0,
-            bottom: 10
-        }
-    };
+    // // Update chart title with selected SA3
+    // charts.chart7.options.plugins.title = {
+    //     display: true,
+    //     text: ["Lisitings by Reviews"], // Set the selected SA3 value as the chart title
+    //     position: 'top',
+    //     font: {
+    //         size: 15 // Adjust the value to increase or decrease the font size
+    //     },
+    //     color: '#333',
+    //     padding: {
+    //         top: 0,
+    //         bottom: 10
+    //     }
+    // };
 
-    // Hide the legend
-    charts.chart7.options.plugins.legend.display = true;
+    // // Hide the legend
+    // charts.chart7.options.plugins.legend.display = true;
 
-    charts.chart7.update();
+    // charts.chart7.update();
+
+    d3.select("#kpi6").html(`
+        <div class="kpi-title">Rating</div>
+        <div class="kpi-value">${avgRat.toFixed(2)}</div>
+    `);
+    d3.select("#kpi5").html(`
+        <div class="kpi-title">Reviews</div>
+        <div class="kpi-value">${avgRev}</div>
+    `);
+    d3.select("#kpi7").html(`
+        <div class="kpi-title">Rooms</div>
+        <div class="kpi-value">${avgRoo}</div>
+    `);
+    d3.select("#kpi8").html(`
+        <div class="kpi-title">Capacity</div>
+        <div class="kpi-value">${avgCap}</div>
+    `);
+
+    // document.getElementById('banner-title').textContent = data[0].Suburb_Name;
+
+    // Update the Market Overview title
+    document.getElementById('Section-title2').textContent = `Market Performance: ${data[0].Suburb_Name}`;
 
 
 

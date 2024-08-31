@@ -19,50 +19,97 @@
     <script src="https://cdn.jsdelivr.net/npm/papaparse"></script>
     <link rel="stylesheet" href="./css/main.css">  
     
+    <script src="https://cdn.jsdelivr.net/npm/@turf/turf"></script>
+
 </head>
 <body>
+
+
     <div class="container">
+
+        
 
         <!-- Map Section -->
         <div id="map"></div>
 
 
+
         <!-- Chart Section-->
         <div id="right-banner">
-            <h1>
+            <!-- <h1>
             <span id="banner-title">Suburb</span>
-            </h1>
+            </h1> -->
+            <h2>
+                <span id="Section-title">Market Overview</span>
+            </h2>
+        <div class="kpi-row">
             <div id="kpi-container">
                 <div id="kpi"></div>
+            </div>
+            <div id="kpi-container">
                 <div id="kpi2"></div>
             </div>
-            <canvas id="chart"></canvas>
-            <canvas id="chart2"></canvas>
-            <canvas id="chart3"></canvas>
-            <canvas id="chart4"></canvas>
-            <canvas id="chart5"></canvas>
-            <canvas id="chart6"></canvas>
+            <div id="kpi-container">
+                <div id="kpi3"></div>
+            </div>
+            <div id="kpi-container">
+                <div id="kpi4"></div>
+            </div>
+        </div>
+
+             <!-- Grouped charts to be displayed side by side -->
+        <div class="chart-row">
+            <div class="chart-container">
+                <canvas id="chart"></canvas>
+            </div>
+            <div class="chart-container">
+                <canvas id="chart2"></canvas>
+            </div>
+        </div>
+
+        <div class="chart-row2">   
+            <div class="chart-container">
+                <canvas id="chart3"></canvas>
+            </div>
+            <div class="chart-container">
+                <canvas id="chart4"></canvas>
+            </div>
+        </div>
+        
+        <h2>
+            <span id="Section-title2">Market Performance</span>
+        </h2>
+
+        <div class="kpi-row2">
+            <div id="kpi-container2">
+                <div id="kpi6"></div>
+            </div>
+            <div id="kpi-container2">
+                <div id="kpi5"></div>
+            </div>
+            <div id="kpi-container2">
+                <div id="kpi7"></div>
+            </div>
+            <div id="kpi-container2">
+                <div id="kpi8"></div>
+            </div>
+        </div>
+
+        
+        
+        <div class="chart-row3">
+            <div class="chart-container">
+                <canvas id="chart5"></canvas>
+            </div>
+            <div class="chart-container">
+                <canvas id="chart6"></canvas>
+            </div>
+        </div>
+
+        <!-- <div class="chart-container">
             <canvas id="chart7"></canvas>
+        </div> -->
             
-            
-        </div>
-
-        <!-- <pre id="info"></pre> -->
-
-        <div id="menu">
-            <input id="satellite-v9" type="radio" name="rtoggle" value="satellite" >
-            <!-- See a list of Mapbox-hosted public styles at -->
-            <!-- https://docs.mapbox.com/api/maps/styles/#mapbox-styles -->
-            <label for="satellite-v9">satellite</label>
-            <input id="light-v10" type="radio" name="rtoggle" value="light" checked="checked">
-            <label for="light-v10">light</label>
-            <input id="dark-v10" type="radio" name="rtoggle" value="dark">
-            <label for="dark-v10">dark</label>
-            <input id="streets-v11" type="radio" name="rtoggle" value="streets" >
-            <label for="streets-v11">streets</label>
-            <input id="outdoors-v11" type="radio" name="rtoggle" value="outdoors">
-            <label for="outdoors-v11">outdoors</label>
-        </div>
         
     </div>
 

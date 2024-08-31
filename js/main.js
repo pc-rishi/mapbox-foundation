@@ -57,6 +57,8 @@ document.addEventListener('DOMContentLoaded', function () {
                 }
             });
         });    
+
+        
 });
 
 function parseCSVData(csvData) {
@@ -91,6 +93,9 @@ function parseCSVData2(csvData) {
         Between_30_to_100:parseFloat(row['31 - 100 Reviews']),
         Between_11_to_30:parseFloat(row['11 - 30 Reviews']),
         Less_than_10:parseFloat(row['0 - 10 Reviews']),
+        Rating:parseFloat(row['Rating']),
+        Reviews:parseFloat(row['Review_Count']),
+        Rooms:parseFloat(row['Rooms']),
         Suburb_Name: row['Suburb Name']
     }));
 }
